@@ -1,0 +1,33 @@
+# 每天 06:00（台灣時間）自動跑一次資料蒐集管線，更新 apps/web/public/events.json
+# 並 commit 回 repo。完全在 GitHub 的雲端伺服器執行，不需要本地端開機。
+name: Update events.json
+on:
+  schedule:
+    - cron: '0 22 * * *'   # UTC 22:00 = 台灣時間 06:00
+  workflow_dispatch: {}     # 允許在 GitHub 網頁上手動觸發一次
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 安裝依賴
+        run: pip install -r scripts/requirements.txt
+
+      - name: 執行 pipeline（只對新活動/有變動的活動呼叫 Gemini）
+        working-directory: .
+        run: python3 -m scripts.pipeline --out apps/web/public/events.json
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Commit events.json（若有變動）
+        run: |
+          git config user.name "event-radar-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add apps/web/public/events.json
+          git diff --cached --quiet && echo "沒有變動，略過 commit" || git commit -m "chore: update events.json"
+          git push

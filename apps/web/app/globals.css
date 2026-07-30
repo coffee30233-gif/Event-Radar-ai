@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 基礎樣式：深色背景、留白多一點、卡片有層次感。細節持續在各頁面調整，不強求一次到位。 */
+html, body {
+  height: 100%;
+}
+body {
+  /* 底部導覽列高度 + iPhone 的 home indicator 安全區域，避免內容被蓋住 */
+  padding-bottom: calc(64px + env(safe-area-inset-bottom));
+}
+
+/* 數字（時間、倒數、溫度）一律用等寬數字字體，畫面比較穩定不會抖動 */
+.font-mono {
+  font-variant-numeric: tabular-nums;
+}
