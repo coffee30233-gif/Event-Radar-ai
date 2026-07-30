@@ -5,6 +5,13 @@ on:
   schedule:
     - cron: '0 22 * * *'   # UTC 22:00 = 台灣時間 06:00
   workflow_dispatch: {}     # 允許在 GitHub 網頁上手動觸發一次
+
+# 同一時間只允許一個這個 workflow 在跑，避免「排程執行」跟「手動觸發」或
+# 「使用者自己手動 push」同時間搶著 push 造成 git push 被拒絕（實際發生過一次）。
+concurrency:
+  group: update-events
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -24,10 +31,28 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
-      - name: Commit events.json（若有變動）
+      - name: Commit + push events.json（若有變動，遇到 push 被拒絕會自動重試）
         run: |
           git config user.name "event-radar-bot"
           git config user.email "bot@users.noreply.github.com"
           git add apps/web/public/events.json
-          git diff --cached --quiet && echo "沒有變動，略過 commit" || git commit -m "chore: update events.json"
-          git push
+          if git diff --cached --quiet; then
+            echo "沒有變動，略過 commit"
+            exit 0
+          fi
+          git commit -m "chore: update events.json"
+
+          # pipeline 執行期間（安裝依賴+跑 pipeline 常常超過1分鐘）如果 GitHub 上的
+          # main 被別的地方（手動 push、另一次 workflow）改動過，直接 push 會被拒絕。
+          # 這裡改成：push 失敗就 fetch + rebase 到最新的 remote，再重試，最多 5 次。
+          for i in 1 2 3 4 5; do
+            if git push; then
+              echo "push 成功"
+              exit 0
+            fi
+            echo "push 被拒絕，嘗試 rebase 到最新的 origin/main 後重試（第 $i 次）"
+            git fetch origin main
+            git rebase origin/main
+          done
+          echo "重試 5 次後仍然失敗，請手動檢查"
+          exit 1
