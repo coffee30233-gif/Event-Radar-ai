@@ -3,7 +3,7 @@
 /** 活動卡片的載入骨架，取代單純的「載入中…」文字。 */
 export function EventCardSkeleton() {
   return (
-    <div className="w-full rounded-2xl border border-neutral-200 bg-white p-3.5 animate-pulse">
+    <div className="w-full rounded-2xl border border-neutral-200 bg-surface p-3.5 animate-pulse">
       <div className="flex items-center gap-2 mb-2">
         <div className="h-4 w-10 rounded bg-neutral-100" />
         <div className="h-3 w-14 rounded bg-neutral-100" />

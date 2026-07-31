@@ -1,24 +1,24 @@
 import type { Config } from "tailwindcss";
 
-// 設計方向：白色底、乾淨明亮的風格，留白多一點、卡片用陰影/邊框做出層次感
-// （原本是深色主題，改成白色底之後這裡的 token 名稱不變，只換色值，
-// 所以套用這幾個 token 的元件不用逐一改 class 名稱）。
+// 設計方向：柔和的米白/杏色底，不是刺眼的純白，留白多一點、卡片用陰影/邊框做出層次感。
+// （原本用純白 #ffffff 當底色，使用者反應太刺眼，改成偏暖的米色調，閱讀起來比較舒服，
+// 概念類似 Kindle 的護眼模式，不是死板的辦公室白）。
 const config: Config = {
   content: ["./app/**/*.{ts,tsx}", "./components/**/*.{ts,tsx}"],
   theme: {
     extend: {
       colors: {
-        app: "#faf9f7",
-        surface: "#ffffff",
-        "surface-hi": "#f2f0ec",
-        accent: { DEFAULT: "#d97706", dim: "#fef3c7" },
+        app: "#f6f2e9",
+        surface: "#fffdf8",
+        "surface-hi": "#ede6d4",
+        accent: { DEFAULT: "#c2660a", dim: "#fdecc8" },
       },
       fontFamily: {
         sans: ["var(--font-noto-sans-tc)", "system-ui", "sans-serif"],
         mono: ["var(--font-mono)", "ui-monospace", "monospace"],
       },
       boxShadow: {
-        card: "0 1px 2px rgba(0,0,0,0.04), 0 8px 20px -10px rgba(0,0,0,0.12)",
+        card: "0 1px 2px rgba(120,90,30,0.05), 0 8px 20px -10px rgba(120,90,30,0.15)",
       },
     },
   },

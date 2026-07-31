@@ -128,7 +128,7 @@ export default function SearchPage() {
           onChange={(e) => setMessage(e.target.value)}
           onKeyDown={(e) => e.key === "Enter" && send(message)}
           placeholder="輸入你想找的活動…"
-          className="flex-1 rounded-2xl bg-white border border-neutral-200 px-4 py-3 text-sm outline-none focus:border-accent transition-colors text-neutral-800"
+          className="flex-1 rounded-2xl bg-surface border border-neutral-200 px-4 py-3 text-sm outline-none focus:border-accent transition-colors text-neutral-800"
         />
         <button
           onClick={() => send(message)}
@@ -145,7 +145,7 @@ export default function SearchPage() {
             key={s}
             onClick={() => { setMessage(s); send(s); }}
             disabled={loading || !events}
-            className="shrink-0 rounded-full border border-neutral-200 bg-white px-3.5 py-1.5 text-xs text-neutral-500 disabled:opacity-40 active:scale-95 transition-transform"
+            className="shrink-0 rounded-full border border-neutral-200 bg-surface px-3.5 py-1.5 text-xs text-neutral-500 disabled:opacity-40 active:scale-95 transition-transform"
           >
             {s}
           </button>
@@ -159,7 +159,7 @@ export default function SearchPage() {
 
       {!loading && result && (
         <div className="mb-4">
-          <p className="text-sm bg-white border border-neutral-200 rounded-2xl p-3.5 text-neutral-700">✦ {result.replyText}</p>
+          <p className="text-sm bg-surface border border-neutral-200 rounded-2xl p-3.5 text-neutral-700">✦ {result.replyText}</p>
         </div>
       )}
 
@@ -209,7 +209,7 @@ export default function SearchPage() {
       )}
 
       {!loading && result?.intent === "ask" && result.ask && (
-        <p className="text-sm bg-white border border-neutral-200 rounded-2xl p-3.5 text-neutral-700">{result.ask.answer}</p>
+        <p className="text-sm bg-surface border border-neutral-200 rounded-2xl p-3.5 text-neutral-700">{result.ask.answer}</p>
       )}
 
       {!loading && result?.intent === "restaurant" && result.restaurant && (
@@ -218,7 +218,7 @@ export default function SearchPage() {
             const mapsQuery = encodeURIComponent(`${r.name} ${r.areaHint}`);
             const mapsUrl = `https://www.google.com/maps/search/?api=1&query=${mapsQuery}`;
             return (
-              <div key={i} className="rounded-2xl border border-neutral-200 bg-white p-3.5 shadow-card">
+              <div key={i} className="rounded-2xl border border-neutral-200 bg-surface p-3.5 shadow-card">
                 <div className="flex items-center gap-2 mb-1">
                   <span className="text-[10px] font-bold px-1.5 py-0.5 rounded bg-neutral-100 text-neutral-600">{r.cuisine}</span>
                   <span className="text-[11px] text-neutral-500 ml-auto font-mono">{r.priceRange}</span>

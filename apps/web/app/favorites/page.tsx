@@ -41,7 +41,7 @@ export default function FavoritesPage() {
     <main className="px-4 pt-6 pb-6 max-w-lg mx-auto">
       <h1 className="text-xl font-black tracking-tight mb-4 text-neutral-900">我的活動</h1>
 
-      <div className="flex rounded-2xl bg-white border border-neutral-200 p-1 mb-5">
+      <div className="flex rounded-2xl bg-surface border border-neutral-200 p-1 mb-5">
         <button
           onClick={() => setTab("favorites")}
           className={`flex-1 rounded-xl py-2.5 text-xs font-bold transition-colors ${

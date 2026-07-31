@@ -66,7 +66,7 @@ export default function WeatherBroadcast({
           );
         })()
       ) : (
-        <div className="rounded-2xl border border-neutral-200 bg-white px-4 py-3 mb-2 text-sm text-neutral-500">
+        <div className="rounded-2xl border border-neutral-200 bg-surface px-4 py-3 mb-2 text-sm text-neutral-500">
           天氣讀取中…
         </div>
       )}
@@ -81,7 +81,7 @@ export default function WeatherBroadcast({
                 className={`shrink-0 rounded-full border px-3 py-1 text-xs transition-colors active:scale-95 ${
                   o.key === selectedKey
                     ? "border-accent bg-accent/10 text-accent"
-                    : "border-neutral-200 bg-white text-neutral-500"
+                    : "border-neutral-200 bg-surface text-neutral-500"
                 }`}
               >
                 {o.label}
@@ -92,7 +92,7 @@ export default function WeatherBroadcast({
         <select
           value={allCities.includes(selectedKey) ? selectedKey : ""}
           onChange={(e) => e.target.value && onSelect(e.target.value)}
-          className="shrink-0 rounded-full border border-neutral-200 bg-white px-3 py-1 text-xs text-neutral-500"
+          className="shrink-0 rounded-full border border-neutral-200 bg-surface px-3 py-1 text-xs text-neutral-500"
         >
           <option value="">其他地區…</option>
           {allCities.map((c) => (

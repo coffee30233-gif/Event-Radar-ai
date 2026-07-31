@@ -60,7 +60,7 @@ export default function CalendarPage() {
       <div className="flex items-center justify-between mb-4">
         <button
           onClick={() => setMonthOffset((m) => m - 1)}
-          className="w-9 h-9 rounded-xl bg-white border border-neutral-200 text-lg text-neutral-600 active:scale-90 transition-transform"
+          className="w-9 h-9 rounded-xl bg-surface border border-neutral-200 text-lg text-neutral-600 active:scale-90 transition-transform"
         >
           ‹
         </button>
@@ -72,7 +72,7 @@ export default function CalendarPage() {
         </div>
         <button
           onClick={() => setMonthOffset((m) => m + 1)}
-          className="w-9 h-9 rounded-xl bg-white border border-neutral-200 text-lg text-neutral-600 active:scale-90 transition-transform"
+          className="w-9 h-9 rounded-xl bg-surface border border-neutral-200 text-lg text-neutral-600 active:scale-90 transition-transform"
         >
           ›
         </button>
@@ -104,8 +104,8 @@ export default function CalendarPage() {
                       isSelected
                         ? "bg-accent text-white border-accent font-bold shadow-card"
                         : isToday
-                          ? "border-accent/60 text-neutral-800 bg-white"
-                          : "border-neutral-200 text-neutral-500 bg-white"
+                          ? "border-accent/60 text-neutral-800 bg-surface"
+                          : "border-neutral-200 text-neutral-500 bg-surface"
                     }`}
                   >
                     <span>{day}</span>

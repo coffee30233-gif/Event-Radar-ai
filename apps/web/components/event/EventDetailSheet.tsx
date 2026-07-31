@@ -74,7 +74,7 @@ export default function EventDetailSheet({
   return (
     <div className="fixed inset-0 z-50 flex items-end justify-center bg-black/40" onClick={onClose}>
       <div
-        className="w-full max-w-lg max-h-[88vh] overflow-y-auto rounded-t-2xl bg-white p-5 pb-8 shadow-2xl"
+        className="w-full max-w-lg max-h-[88vh] overflow-y-auto rounded-t-2xl bg-surface p-5 pb-8 shadow-2xl"
         onClick={(e) => e.stopPropagation()}
       >
         <div className="mx-auto mb-3 h-1 w-9 rounded-full bg-neutral-200" />
