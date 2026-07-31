@@ -7,7 +7,7 @@ export const AI_RESPONSE_SCHEMA = {
   properties: {
     intent: {
       type: "string",
-      enum: ["search", "plan", "recommend", "ask", "restaurant"],
+      enum: ["search", "plan", "recommend", "ask", "restaurant", "trail"],
       description: "使用者這句話屬於哪一種意圖",
     },
     replyText: {
@@ -117,6 +117,32 @@ export const AI_RESPONSE_SCHEMA = {
         },
       ],
     },
+    trail: {
+      anyOf: [
+        { type: "null" },
+        {
+          type: "object",
+          properties: {
+            picks: {
+              type: "array",
+              items: {
+                type: "object",
+                properties: {
+                  name: { type: "string" },
+                  difficulty: { type: "string" },
+                  duration: { type: "string" },
+                  areaHint: { type: "string" },
+                  reason: { type: "string" },
+                },
+                required: ["name", "difficulty", "duration", "areaHint", "reason"],
+              },
+            },
+            disclaimer: { type: "string" },
+          },
+          required: ["picks", "disclaimer"],
+        },
+      ],
+    },
   },
-  required: ["intent", "replyText", "search", "plan", "recommend", "ask", "restaurant"],
+  required: ["intent", "replyText", "search", "plan", "recommend", "ask", "restaurant", "trail"],
 } as const;

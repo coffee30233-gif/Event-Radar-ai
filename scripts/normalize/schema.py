@@ -10,9 +10,9 @@ from typing import Optional
 # Category：20 種分類（跟 apps/web/types/event.ts 的 Category 同一組 key）
 # ---------------------------------------------------------------
 CATEGORIES = [
-    "fireworks", "firedance", "concert", "musicfest", "exhibition",
+    "fireworks", "firedance", "concert", "musicfest", "performance", "exhibition",
     "creative", "market", "nightmarket", "anime", "game", "talk",
-    "festival", "lantern", "family", "pet", "run", "outdoor",
+    "festival", "lantern", "family", "pet", "run", "experience", "outdoor",
     "food", "popup", "mall",
 ]
 

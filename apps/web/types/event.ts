@@ -6,6 +6,7 @@ export type Category =
   | "firedance"    // 火舞
   | "concert"      // 演唱會
   | "musicfest"    // 音樂祭
+  | "performance"  // 表演（音樂劇/舞台劇/戲劇/舞蹈演出，跟純音樂的演唱會分開）
   | "exhibition"   // 展覽
   | "creative"     // 文創
   | "market"       // 市集
@@ -18,6 +19,7 @@ export type Category =
   | "family"       // 親子
   | "pet"          // 寵物
   | "run"          // 路跑
+  | "experience"   // 體驗活動（浮潛/衝浪/滑水/獨木舟等水上或極限運動類體驗）
   | "outdoor"      // 戶外
   | "food"         // 美食活動
   | "popup"        // 快閃活動
@@ -28,6 +30,7 @@ export const CATEGORY_LABELS: Record<Category, string> = {
   firedance: "火舞",
   concert: "演唱會",
   musicfest: "音樂祭",
+  performance: "表演",
   exhibition: "展覽",
   creative: "文創",
   market: "市集",
@@ -40,6 +43,7 @@ export const CATEGORY_LABELS: Record<Category, string> = {
   family: "親子",
   pet: "寵物",
   run: "路跑",
+  experience: "體驗活動",
   outdoor: "戶外",
   food: "美食活動",
   popup: "快閃活動",

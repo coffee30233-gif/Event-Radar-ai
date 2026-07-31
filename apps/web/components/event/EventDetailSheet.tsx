@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 import { CATEGORY_LABELS, type NormalizedEvent } from "@/types/event";
 import { isFavorite, toggleFavorite, getAttendedMap, toggleAttended, getFavoriteIds } from "@/lib/storage";
-import { downloadIcs, googleCalendarUrl } from "@/lib/calendar";
+import { downloadIcs } from "@/lib/calendar";
 import { formatEventDateRange, isMultiDayEvent } from "@/lib/format";
 import { haversineKm, getCurrentPosition } from "@/lib/geo";
 import type { CandidateEvent } from "@/types/ai";
@@ -148,21 +148,12 @@ export default function EventDetailSheet({
           {answer && <p className="text-sm text-neutral-700 mt-2 bg-surface-hi rounded-lg p-3">{answer}</p>}
         </div>
 
-        <div className="flex gap-2">
-          <button
-            onClick={() => downloadIcs(event)}
-            className="flex-1 rounded-xl bg-surface-hi py-3 text-sm font-bold text-neutral-700 active:scale-95 transition-transform"
-          >
-            📥 加入行事曆
-          </button>
-          <a
-            href={googleCalendarUrl(event)}
-            target="_blank" rel="noopener noreferrer"
-            className="flex-1 rounded-xl bg-surface-hi py-3 text-sm font-bold text-center text-neutral-700 active:scale-95 transition-transform"
-          >
-            📅 Google 日曆
-          </a>
-        </div>
+        <button
+          onClick={() => downloadIcs(event)}
+          className="block w-full rounded-xl bg-surface-hi py-3 text-sm font-bold text-neutral-700 active:scale-95 transition-transform"
+        >
+          📥 加入行事曆
+        </button>
         {event.lat != null && event.lon != null && (
           <a
             href={`https://www.google.com/maps/dir/?api=1&destination=${event.lat},${event.lon}`}

@@ -15,8 +15,8 @@ import WeatherBroadcast, { type WeatherOption } from "@/components/ui/WeatherBro
 import { EventListSkeleton } from "@/components/ui/Skeleton";
 
 const QUICK_CATEGORIES: Category[] = [
-  "fireworks", "concert", "market", "exhibition", "nightmarket",
-  "family", "run", "food", "lantern", "creative",
+  "fireworks", "concert", "performance", "market", "exhibition", "nightmarket",
+  "family", "run", "experience", "food", "lantern", "creative",
 ];
 
 // 選了分類篩選之後，最多顯示幾筆「近期」活動（不只今天），避免列表長到滑不完

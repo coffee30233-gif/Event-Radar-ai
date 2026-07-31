@@ -13,7 +13,7 @@ import EventCard from "@/components/event/EventCard";
 import EventDetailSheet from "@/components/event/EventDetailSheet";
 import { EventListSkeleton } from "@/components/ui/Skeleton";
 
-const SUGGESTIONS = ["今天晚上想約會", "附近有什麼", "免費的", "親子活動", "附近有什麼好吃的"];
+const SUGGESTIONS = ["今天晚上想約會", "附近有什麼", "免費的", "附近有什麼好吃的", "附近有什麼步道"];
 
 function toCandidate(e: NormalizedEvent, userLoc: GeoPosition): CandidateEvent {
   return {
@@ -237,6 +237,34 @@ export default function SearchPage() {
             );
           })}
           <p className="text-[11px] text-neutral-400 mt-1 px-1">⚠️ {result.restaurant.disclaimer}</p>
+        </div>
+      )}
+
+      {!loading && result?.intent === "trail" && result.trail && (
+        <div className="flex flex-col gap-2">
+          {result.trail.picks.map((t, i) => {
+            const mapsQuery = encodeURIComponent(`${t.name} ${t.areaHint}`);
+            const mapsUrl = `https://www.google.com/maps/search/?api=1&query=${mapsQuery}`;
+            return (
+              <div key={i} className="rounded-2xl border border-neutral-200 bg-surface p-3.5 shadow-card">
+                <div className="flex items-center gap-2 mb-1">
+                  <span className="text-[10px] font-bold px-1.5 py-0.5 rounded bg-neutral-100 text-neutral-600">{t.difficulty}</span>
+                  <span className="text-[11px] text-neutral-500 ml-auto font-mono">{t.duration}</span>
+                </div>
+                <h3 className="text-sm font-semibold text-neutral-900">{t.name}</h3>
+                <p className="text-xs text-neutral-500 mt-0.5">📍 {t.areaHint}</p>
+                <p className="text-xs text-neutral-600 mt-1.5">{t.reason}</p>
+                <a
+                  href={mapsUrl}
+                  target="_blank" rel="noopener noreferrer"
+                  className="inline-block mt-2 text-xs font-bold text-accent active:opacity-70"
+                >
+                  🗺 在 Google 地圖上查看（路況／評論／導航）→
+                </a>
+              </div>
+            );
+          })}
+          <p className="text-[11px] text-neutral-400 mt-1 px-1">⚠️ {result.trail.disclaimer}</p>
         </div>
       )}
 

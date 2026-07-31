@@ -1,7 +1,7 @@
 // /api/ai 的 request/response 型別，對應 docs/03-AI-CONTRACTS.md
 import type { Category, Region } from "./event";
 
-export type AiIntent = "search" | "plan" | "recommend" | "ask" | "restaurant";
+export type AiIntent = "search" | "plan" | "recommend" | "ask" | "restaurant" | "trail";
 
 /** NormalizedEvent 的精簡版，只帶 Gemini 判斷需要的欄位。 */
 export interface CandidateEvent {
@@ -78,6 +78,17 @@ export interface AiRestaurantResult {
   disclaimer: string; // 一定要填：提醒使用者這是 AI 一般知識整理，不是即時營業資訊
 }
 
+export interface AiTrailResult {
+  picks: Array<{
+    name: string;
+    difficulty: string;   // 難度描述，例如「新手friendly」「中等，需基本體力」「較硬，建議有經驗者」
+    duration: string;     // 預估所需時間，例如「來回約2小時」
+    areaHint: string;     // 大概位置描述
+    reason: string;       // 為什麼推薦（風景/特色/適合對象）
+  }>;
+  disclaimer: string; // 一定要填：提醒使用者步道狀況（例如坍方、封閉）可能隨時變動，出發前要查最新公告
+}
+
 export interface AiResponse {
   intent: AiIntent;
   replyText: string;
@@ -86,6 +97,7 @@ export interface AiResponse {
   recommend: AiRecommendResult | null;
   ask: AiAskResult | null;
   restaurant: AiRestaurantResult | null;
+  trail: AiTrailResult | null;
 }
 
 /** Route 內部使用：呼叫失敗時的統一錯誤格式 */

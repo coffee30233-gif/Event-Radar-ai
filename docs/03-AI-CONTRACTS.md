@@ -61,7 +61,7 @@ interface CandidateEvent {
 ## 4. Response
 
 ```ts
-type AiIntent = "search" | "plan" | "recommend" | "ask" | "restaurant";
+type AiIntent = "search" | "plan" | "recommend" | "ask" | "restaurant" | "trail";
 
 interface AiResponse {
   intent: AiIntent;
@@ -89,16 +89,24 @@ interface AiResponse {
     picks: Array<{ name: string; cuisine: string; priceRange: string; areaHint: string; reason: string }>;
     disclaimer: string; // 一定要填，提醒使用者這是 AI 一般知識整理，不是即時營業資訊
   } | null;
+
+  trail: {
+    picks: Array<{ name: string; difficulty: string; duration: string; areaHint: string; reason: string }>;
+    disclaimer: string; // 一定要填，提醒使用者步道狀況可能隨時變動，出發前請查最新公告
+  } | null;
 }
 ```
 
-**restaurant 是唯一不受「只能從候選活動清單挑」限制的意圖**（2026/07 新增）。找餐廳
-跟找活動是兩件事——候選清單裡放的是活動，不是餐廳，逼著 Gemini 只能從活動清單裡
-「找餐廳」沒有意義。這個意圖改用 Gemini 自己對台灣餐廳的一般知識回答，所以：
-- `disclaimer` 欄位強制要求填寫，明確告知使用者這不是即時驗證過的營業資訊
-- 沒有候選清單可以grounding，代表比其他意圖更容易產生不準確的資訊（餐廳可能已歇業、
-  地址記錯等），這是刻意接受的取捨——「有 AI 輔助但需要自行確認」好過「完全没有這個
-  功能」，但使用者體驗上必須誠實揭露這個限制，不能包裝成即時資料
+**restaurant 跟 trail 是唯二不受「只能從候選活動清單挑」限制的意圖**（2026/07 新增）。
+找餐廳/找步道跟找活動是三件不同的事——候選清單裡放的是活動，不是餐廳或步道。
+這兩個意圖改用 Gemini 自己的一般知識回答，所以：
+- `disclaimer` 欄位強制要求填寫，restaurant 提醒營業狀態可能已過期，trail 提醒步道
+  路況（坍方/封閉/天候）可能隨時變動，都建議使用者出發前自行到官方管道確認
+- 沒有候選清單可以 grounding，代表比其他意圖更容易產生不準確的資訊，這是刻意接受的
+  取捨——「有 AI 輔助但需要自行確認」好過「完全没有這個功能」，但使用者體驗上必須
+  誠實揭露這個限制，不能包裝成即時資料
+- 前端會幫每個結果附上 Google 地圖搜尋連結，讓使用者一鍵查看真實的評分/營業時間/
+  路況等資訊，用連結而不是串接 Google Places API，見 `apps/web/app/search/page.tsx`
 
 ## 5. Gemini responseSchema（實際送進 API 的 JSON Schema）
 
