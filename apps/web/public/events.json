@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-09T01:25:04.097990+00:00",
+  "generatedAt": "2026-11-10T03:57:29.039259+00:00",
   "sources": [
     "culture",
     "manual"
   ],
-  "eventCount": 449,
+  "eventCount": 452,
   "events": [
     {
       "id": "culture-62024e4ad083a31f047812ae",
@@ -40,7 +40,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-619e1cadd083a3a56c535538",
@@ -76,7 +76,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-620a3747d083a31f047813f1",
@@ -112,7 +112,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6220a0e5d083a32d5c8c8dc5",
@@ -148,7 +148,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-62273864d083a32d5c8c8e4f",
@@ -184,7 +184,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-63ef217c31be352145f9ff2b",
@@ -220,7 +220,7 @@
         "estimatedStayMinutes": 30,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-65eaa9c931bef923aa07d72e",
@@ -258,7 +258,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-690969148f15ccefbf34d1d6",
@@ -296,7 +296,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-68ef6e8b07f374a51cc171c4",
@@ -332,7 +332,7 @@
         "estimatedStayMinutes": 30,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-698e24b626b32454e437c969",
@@ -369,7 +369,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-680ab93126b3242b74a3b478",
@@ -407,7 +407,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6958372026b32416dc34922c",
@@ -444,7 +444,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69b1c12326b3242a48a9dab1",
@@ -482,7 +482,7 @@
         "estimatedStayMinutes": 15,
         "hasAircon": false
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-694717bc26b32416dc348f72",
@@ -520,7 +520,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69616b5026b3243dd4e6acc8",
@@ -558,7 +558,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-697290a426b32454e437c3c8",
@@ -595,7 +595,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a18a67726b3243414cccc4d",
@@ -633,7 +633,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69a0b2c426b32454e437cb66",
@@ -671,7 +671,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-693c63b126b32416dc348c44",
@@ -708,7 +708,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69843545eb43ce229cb24535",
@@ -745,7 +745,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696aa7bb26b3243b1ca0c06e",
@@ -781,7 +781,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-697fae3726b32454e437c65b",
@@ -818,7 +818,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-68950a2f26b324477c8a1474",
@@ -856,7 +856,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-695053cf26b32416dc349157",
@@ -893,7 +893,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6958372526b32416dc34925d",
@@ -930,7 +930,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6966a24726b3243b1ca0bf57",
@@ -966,7 +966,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a20817e26b3243414ccceb6",
@@ -1004,7 +1004,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-695053cf26b32416dc349159",
@@ -1042,7 +1042,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-695053d026b32416dc349161",
@@ -1080,7 +1080,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-695053d026b32416dc349165",
@@ -1117,7 +1117,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6958372626b32416dc349266",
@@ -1154,7 +1154,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6941cd8a26b32416dc348d6f",
@@ -1191,7 +1191,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-67d8874426b32408680bed6f",
@@ -1229,7 +1229,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-68f2a6ac26b324253c0da51d",
@@ -1266,7 +1266,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69013dae26b324253c0da913",
@@ -1304,7 +1304,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-690ba12b26b324253c0dabb3",
@@ -1342,7 +1342,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-690ba12c26b324253c0dabcc",
@@ -1379,7 +1379,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-690ba12d26b324253c0dabcf",
@@ -1417,7 +1417,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6928c79826b32445dce6f36f",
@@ -1455,7 +1455,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6930a89b26b32445dce6f58a",
@@ -1492,7 +1492,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6930a89b26b32445dce6f58c",
@@ -1530,7 +1530,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-693b160f26b32416dc348c39",
@@ -1568,7 +1568,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-693dcdbc26b32416dc348c93",
@@ -1606,7 +1606,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6941cd8926b32416dc348d6c",
@@ -1643,7 +1643,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6941cd8a26b32416dc348d6d",
@@ -1681,7 +1681,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6941cd8a26b32416dc348d6e",
@@ -1718,7 +1718,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-694717bc26b32416dc348f70",
@@ -1755,7 +1755,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-694717bc26b32416dc348f73",
@@ -1792,7 +1792,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-694b125a26b32416dc349054",
@@ -1830,7 +1830,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-694c63f426b32416dc3490b9",
@@ -1867,7 +1867,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-694c63f426b32416dc3490ba",
@@ -1904,7 +1904,7 @@
         "estimatedStayMinutes": 30,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-695053cf26b32416dc349153",
@@ -1942,7 +1942,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-695053cf26b32416dc349155",
@@ -1980,7 +1980,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-695053cf26b32416dc349158",
@@ -2018,7 +2018,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-695053cf26b32416dc34915a",
@@ -2055,7 +2055,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-695053cf26b32416dc34915b",
@@ -2092,7 +2092,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-695053cf26b32416dc34915c",
@@ -2129,7 +2129,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-695053cf26b32416dc34915d",
@@ -2166,7 +2166,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-695053d026b32416dc34915e",
@@ -2203,7 +2203,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-695053d026b32416dc34915f",
@@ -2240,7 +2240,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-695053d026b32416dc349160",
@@ -2277,7 +2277,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-695053d026b32416dc349162",
@@ -2314,7 +2314,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-695053d026b32416dc349163",
@@ -2352,7 +2352,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-695053d026b32416dc349164",
@@ -2390,7 +2390,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-695053d026b32416dc349166",
@@ -2427,7 +2427,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6958372226b32416dc34923f",
@@ -2464,7 +2464,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6958372626b32416dc349268",
@@ -2502,7 +2502,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6958372626b32416dc349269",
@@ -2540,7 +2540,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6958372626b32416dc34926a",
@@ -2578,7 +2578,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69601b8d26b3243dd4e6ac96",
@@ -2616,7 +2616,7 @@
         "estimatedStayMinutes": 180,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6966a24626b3243b1ca0bf47",
@@ -2653,7 +2653,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6966a24726b3243b1ca0bf58",
@@ -2690,7 +2690,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6966a24726b3243b1ca0bf5a",
@@ -2728,7 +2728,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696aa7ad26b3243b1ca0c051",
@@ -2765,7 +2765,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696aa7bb26b3243b1ca0c065",
@@ -2803,7 +2803,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696aa7bb26b3243b1ca0c066",
@@ -2840,7 +2840,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696aa7bb26b3243b1ca0c067",
@@ -2877,7 +2877,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696aa7bb26b3243b1ca0c069",
@@ -2915,7 +2915,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696aa7bb26b3243b1ca0c070",
@@ -2952,7 +2952,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696e973c26b3243b1ca0c0f1",
@@ -2989,7 +2989,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696fe8b126b3243b1ca0c117",
@@ -3027,7 +3027,7 @@
         "estimatedStayMinutes": 180,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696fe8b126b3243b1ca0c119",
@@ -3065,7 +3065,7 @@
         "estimatedStayMinutes": 180,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696fe8b126b3243b1ca0c11a",
@@ -3103,7 +3103,7 @@
         "estimatedStayMinutes": 180,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696fe8b226b3243b1ca0c12d",
@@ -3141,7 +3141,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6977d85026b32454e437c459",
@@ -3179,7 +3179,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6977d86a26b32454e437c46e",
@@ -3217,7 +3217,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-697a6a5d26b32454e437c53d",
@@ -3254,7 +3254,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-697bbd1026b32454e437c59b",
@@ -3292,7 +3292,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-697d0dad26b32454e437c643",
@@ -3329,7 +3329,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-697fae3726b32454e437c65c",
@@ -3366,7 +3366,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-698cd2b326b32454e437c913",
@@ -3403,7 +3403,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-698cd2b426b32454e437c916",
@@ -3440,7 +3440,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-698e24b626b32454e437c968",
@@ -3478,7 +3478,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-698e24b626b32454e437c96a",
@@ -3517,7 +3517,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-698e24b626b32454e437c96c",
@@ -3555,7 +3555,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-698e24b726b32454e437c96e",
@@ -3592,7 +3592,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-698e24b726b32454e437c970",
@@ -3630,7 +3630,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-698e24b726b32454e437c971",
@@ -3667,7 +3667,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-699b6d5f26b32454e437ca39",
@@ -3705,7 +3705,7 @@
         "estimatedStayMinutes": 30,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-699b6d5f26b32454e437ca3a",
@@ -3743,7 +3743,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-699b6d5f26b32454e437ca3b",
@@ -3780,7 +3780,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-699b6d5f26b32454e437ca3c",
@@ -3818,7 +3818,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": false
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-699b6d6026b32454e437ca3e",
@@ -3856,7 +3856,7 @@
         "estimatedStayMinutes": 30,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69a34ae726b32454e437cbbd",
@@ -3894,7 +3894,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69b06ece26b3242a48a9d9d9",
@@ -3931,7 +3931,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69b1c11e26b3242a48a9da81",
@@ -3968,7 +3968,7 @@
         "estimatedStayMinutes": 30,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69b1c11e26b3242a48a9da82",
@@ -4004,7 +4004,7 @@
         "estimatedStayMinutes": 30,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69b1c11e26b3242a48a9da83",
@@ -4041,7 +4041,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69b1c11e26b3242a48a9da84",
@@ -4079,7 +4079,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69b1c11e26b3242a48a9da85",
@@ -4117,7 +4117,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69b1c11e26b3242a48a9da86",
@@ -4154,7 +4154,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69b1c11f26b3242a48a9da87",
@@ -4191,7 +4191,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69b1c11f26b3242a48a9da88",
@@ -4229,7 +4229,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69b1c11f26b3242a48a9da89",
@@ -4266,7 +4266,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69ea831b26b3242a48a9e62d",
@@ -4304,7 +4304,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a17562f26b3243414cccbd1",
@@ -4341,7 +4341,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a20817f26b3243414ccceb8",
@@ -4378,7 +4378,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a20817f26b3243414ccceba",
@@ -4416,7 +4416,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a3c35e526b3243414ccd588",
@@ -4454,7 +4454,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-690293fb26b324253c0da978",
@@ -4491,7 +4491,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-695053cf26b32416dc349154",
@@ -4528,7 +4528,7 @@
         "estimatedStayMinutes": 40,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-695053cf26b32416dc349156",
@@ -4566,7 +4566,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6958372626b32416dc349265",
@@ -4604,7 +4604,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6958372626b32416dc349267",
@@ -4641,7 +4641,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696954e026b3243b1ca0c007",
@@ -4679,7 +4679,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696954e026b3243b1ca0c00a",
@@ -4717,7 +4717,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696aa7bb26b3243b1ca0c068",
@@ -4754,7 +4754,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696fe8b126b3243b1ca0c115",
@@ -4792,44 +4792,7 @@
         "estimatedStayMinutes": 15,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
-    },
-    {
-      "id": "culture-696fe8b226b3243b1ca0c12a",
-      "title": "《穿越時空的航海家》",
-      "city": "台南市",
-      "region": "南部",
-      "address": "",
-      "venue": "",
-      "lat": null,
-      "lon": null,
-      "category": "exhibition",
-      "start": "2026-01-01T19:00:00+08:00",
-      "end": "2026-12-31T19:00:00+08:00",
-      "price": "詳見官方資訊",
-      "isFree": false,
-      "url": "https://www.chimeimuseum.org/event/65a5df4f29d3c",
-      "sources": [
-        "culture"
-      ],
-      "popularityScore": 50,
-      "contentHash": "4f8f30b775d95d7b",
-      "aiSource": "gemini",
-      "ai": {
-        "bullets": [
-          "首款奇美博物館AR實境遊戲，透過手機解謎揭開歷史謎團。",
-          "遊戲包含7個關卡，帶領玩家穿梭常設展廳認識珍貴藏品。",
-          "不需購買門票與下載APP，建議每隊2-5人組隊遊玩。"
-        ],
-        "recommendReason": "不僅能動腦解謎還能深入認識奇美博物館的豐富典藏，非常適合跟朋友一起去挑戰！",
-        "suitableFor": [
-          "朋友聚會",
-          "情侶"
-        ],
-        "estimatedStayMinutes": 180,
-        "hasAircon": null
-      },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-695053cf26b32416dc349152",
@@ -4867,7 +4830,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69557cfa26b32416dc3491e5",
@@ -4904,7 +4867,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-695ecb3626b3243dd4e6ac19",
@@ -4941,7 +4904,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-695ecb3726b3243dd4e6ac1a",
@@ -4979,7 +4942,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-695ecb3726b3243dd4e6ac1b",
@@ -5017,7 +4980,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-695ecb4526b3243dd4e6ac23",
@@ -5054,7 +5017,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-695ecb4526b3243dd4e6ac24",
@@ -5091,7 +5054,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6966a24726b3243b1ca0bf55",
@@ -5128,7 +5091,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6966a24726b3243b1ca0bf56",
@@ -5164,7 +5127,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696aa7bb26b3243b1ca0c05f",
@@ -5202,7 +5165,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696aa7bb26b3243b1ca0c060",
@@ -5240,7 +5203,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696aa7bb26b3243b1ca0c061",
@@ -5278,7 +5241,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696aa7bb26b3243b1ca0c062",
@@ -5315,7 +5278,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696aa7bb26b3243b1ca0c063",
@@ -5353,7 +5316,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696aa7bb26b3243b1ca0c064",
@@ -5390,7 +5353,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696aa7bb26b3243b1ca0c06c",
@@ -5427,7 +5390,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696aa7bb26b3243b1ca0c06d",
@@ -5464,7 +5427,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696aa7c526b3243b1ca0c071",
@@ -5502,7 +5465,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696aa7c526b3243b1ca0c072",
@@ -5539,7 +5502,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696aa7c526b3243b1ca0c073",
@@ -5576,7 +5539,44 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
+    },
+    {
+      "id": "culture-696fe8b226b3243b1ca0c12a",
+      "title": "《穿越時空的航海家》",
+      "city": "台南市",
+      "region": "南部",
+      "address": "",
+      "venue": "",
+      "lat": null,
+      "lon": null,
+      "category": "exhibition",
+      "start": "2026-01-01T19:00:00+08:00",
+      "end": "2026-12-31T19:00:00+08:00",
+      "price": "詳見官方資訊",
+      "isFree": false,
+      "url": "https://www.chimeimuseum.org/event/65a5df4f29d3c",
+      "sources": [
+        "culture"
+      ],
+      "popularityScore": 50,
+      "contentHash": "4f8f30b775d95d7b",
+      "aiSource": "gemini",
+      "ai": {
+        "bullets": [
+          "首款奇美博物館AR實境遊戲，透過手機解謎揭開歷史謎團。",
+          "遊戲包含7個關卡，帶領玩家穿梭常設展廳認識珍貴藏品。",
+          "不需購買門票與下載APP，建議每隊2-5人組隊遊玩。"
+        ],
+        "recommendReason": "不僅能動腦解謎還能深入認識奇美博物館的豐富典藏，非常適合跟朋友一起去挑戰！",
+        "suitableFor": [
+          "朋友聚會",
+          "情侶"
+        ],
+        "estimatedStayMinutes": 180,
+        "hasAircon": null
+      },
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69714c7426b3243b1ca0c146",
@@ -5613,7 +5613,7 @@
         "estimatedStayMinutes": 30,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6973eb1426b32454e437c400",
@@ -5650,7 +5650,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69791c2026b32454e437c499",
@@ -5688,7 +5688,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-697a6a5b26b32454e437c53a",
@@ -5725,7 +5725,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69824f0c26b32454e437c6db",
@@ -5763,7 +5763,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-699a01e626b32454e437c9fb",
@@ -5800,7 +5800,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-699f5a5926b32454e437cb40",
@@ -5837,7 +5837,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-699f5a5926b32454e437cb41",
@@ -5874,7 +5874,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69a0b2b726b32454e437cb64",
@@ -5911,7 +5911,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69ab2e8426b3242a48a9d92b",
@@ -5949,7 +5949,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69ab2e8526b3242a48a9d92d",
@@ -5987,7 +5987,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69b06ece26b3242a48a9d9d7",
@@ -6025,7 +6025,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69b06ece26b3242a48a9d9d8",
@@ -6063,7 +6063,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69b1c0fb26b3242a48a9da13",
@@ -6101,7 +6101,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69b1c0fb26b3242a48a9da14",
@@ -6139,7 +6139,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69b1c0fb26b3242a48a9da15",
@@ -6177,7 +6177,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69b1c11f26b3242a48a9da8a",
@@ -6214,7 +6214,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69b1c11f26b3242a48a9da8b",
@@ -6252,7 +6252,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69b1c11f26b3242a48a9da8c",
@@ -6289,7 +6289,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69b1c11f26b3242a48a9da8d",
@@ -6327,7 +6327,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69b3117e26b3242a48a9db22",
@@ -6364,7 +6364,7 @@
         "estimatedStayMinutes": 30,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69da9c0926b3242a48a9e29f",
@@ -6402,7 +6402,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69ebd96026b3242a48a9e6b5",
@@ -6440,7 +6440,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69f7a63626b3243414ccc55f",
@@ -6477,7 +6477,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69f7a63726b3243414ccc560",
@@ -6514,7 +6514,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a3d86d426b3243414ccd63e",
@@ -6552,7 +6552,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a456ade26b32427d060407b",
@@ -6590,7 +6590,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696e972926b3243b1ca0c0e5",
@@ -6627,7 +6627,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69cec89126b3242a48a9e086",
@@ -6664,7 +6664,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696e972526b3243b1ca0c0d8",
@@ -6701,7 +6701,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69c6e4bb26b3242a48a9df14",
@@ -6738,7 +6738,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69c6e4b426b3242a48a9deea",
@@ -6775,7 +6775,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6958372626b32416dc349264",
@@ -6813,7 +6813,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6937401926b32445dce6f6b6",
@@ -6850,7 +6850,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696aa78026b3243b1ca0c040",
@@ -6886,7 +6886,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696aa78026b3243b1ca0c041",
@@ -6923,7 +6923,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696aa78026b3243b1ca0c042",
@@ -6960,7 +6960,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69714c9b26b3243b1ca0c16b",
@@ -6997,7 +6997,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6973eaea26b32454e437c3db",
@@ -7034,7 +7034,7 @@
         "estimatedStayMinutes": 30,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6973eb0b26b32454e437c3ec",
@@ -7071,7 +7071,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6973eb0c26b32454e437c3ed",
@@ -7109,7 +7109,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6973eb0c26b32454e437c3ee",
@@ -7147,7 +7147,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6973eb0c26b32454e437c3ef",
@@ -7185,7 +7185,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6973eb0c26b32454e437c3f0",
@@ -7223,7 +7223,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-698b826a26b32454e437c8b6",
@@ -7260,7 +7260,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696aa79226b3243b1ca0c046",
@@ -7297,7 +7297,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6984f0f026b32454e437c753",
@@ -7334,7 +7334,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-698f772d26b32454e437c994",
@@ -7372,7 +7372,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-698f772f26b32454e437c995",
@@ -7410,7 +7410,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69c6e4ba26b3242a48a9df0c",
@@ -7446,7 +7446,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a39871026b3243414ccd4fe",
@@ -7483,7 +7483,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-694f051c26b32416dc34910d",
@@ -7520,7 +7520,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696fe8b226b3243b1ca0c129",
@@ -7557,7 +7557,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-694f051c26b32416dc34910e",
@@ -7594,7 +7594,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696e972926b3243b1ca0c0e4",
@@ -7631,7 +7631,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69baf75126b3242a48a9dc6a",
@@ -7668,7 +7668,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69cec89226b3242a48a9e08a",
@@ -7705,7 +7705,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-697e5cfe26b32454e437c64a",
@@ -7742,7 +7742,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69bef2bd26b3242a48a9dd65",
@@ -7779,7 +7779,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69c6e4b226b3242a48a9dee8",
@@ -7816,7 +7816,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69cec86626b3242a48a9e07a",
@@ -7852,7 +7852,7 @@
         "estimatedStayMinutes": 240,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69c6e4b726b3242a48a9df08",
@@ -7889,7 +7889,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696e972526b3243b1ca0c0d9",
@@ -7925,7 +7925,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69c6e4b526b3242a48a9deec",
@@ -7962,7 +7962,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69c6e4ba26b3242a48a9df0f",
@@ -7999,7 +7999,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69616b5126b3243dd4e6acd7",
@@ -8035,7 +8035,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69de904826b3242a48a9e30f",
@@ -8072,7 +8072,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696e973626b3243b1ca0c0eb",
@@ -8108,7 +8108,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696aa78026b3243b1ca0c043",
@@ -8144,7 +8144,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69dfe1cf26b3242a48a9e382",
@@ -8181,7 +8181,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-694f051c26b32416dc34910f",
@@ -8217,7 +8217,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696e973626b3243b1ca0c0ec",
@@ -8254,7 +8254,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-698cd2b426b32454e437c91e",
@@ -8291,7 +8291,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-699a019826b32454e437c9e9",
@@ -8327,7 +8327,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-694f051c26b32416dc349110",
@@ -8364,7 +8364,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69baf78026b3242a48a9dc6c",
@@ -8402,7 +8402,7 @@
         "estimatedStayMinutes": 30,
         "hasAircon": false
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-68f2a6a926b324253c0da4fc",
@@ -8440,7 +8440,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6920ec3b26b32445dce6f17a",
@@ -8478,7 +8478,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69cc269326b3242a48a9dfc1",
@@ -8515,7 +8515,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69e1333e26b3242a48a9e3fe",
@@ -8552,7 +8552,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-698b826f26b32454e437c8c5",
@@ -8590,7 +8590,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69d6a80b26b3242a48a9e185",
@@ -8627,7 +8627,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69dfe1d226b3242a48a9e385",
@@ -8664,7 +8664,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69a88ccf26b3242a48a9d848",
@@ -8700,7 +8700,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a319df326b3243414ccd36d",
@@ -8737,7 +8737,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6984f0fe26b32454e437c79e",
@@ -8773,7 +8773,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69a9ddf926b3242a48a9d892",
@@ -8811,7 +8811,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a04cce926b3243414ccc86d",
@@ -8848,7 +8848,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69a1faab26b32454e437cbab",
@@ -8885,7 +8885,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69af1f6626b3242a48a9d97c",
@@ -8922,7 +8922,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69af1f6626b3242a48a9d97d",
@@ -8960,7 +8960,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69cec86626b3242a48a9e079",
@@ -8997,7 +8997,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69a1faab26b32454e437cbac",
@@ -9033,7 +9033,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69c4502326b3242a48a9de5f",
@@ -9070,7 +9070,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69a1faab26b32454e437cbaa",
@@ -9107,7 +9107,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69fa478a26b3243414ccc5c1",
@@ -9144,7 +9144,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69b06ec526b3242a48a9d9ae",
@@ -9181,7 +9181,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69ba56f426b3242a48a9dc4d",
@@ -9218,7 +9218,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a04ccf326b3243414ccc882",
@@ -9255,7 +9255,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69e1334126b3242a48a9e40a",
@@ -9291,7 +9291,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69fe3b1026b3243414ccc6d4",
@@ -9328,7 +9328,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69de905726b3242a48a9e31f",
@@ -9365,7 +9365,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69f7a63626b3243414ccc55c",
@@ -9402,7 +9402,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69e2848b26b3242a48a9e4cd",
@@ -9439,7 +9439,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a04ccf326b3243414ccc87f",
@@ -9476,7 +9476,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a04ccf326b3243414ccc880",
@@ -9514,7 +9514,7 @@
         "estimatedStayMinutes": 30,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69efc6bf26b3242a48a9e723",
@@ -9551,7 +9551,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69c2ee5726b3242a48a9ddf6",
@@ -9587,7 +9587,7 @@
         "estimatedStayMinutes": 480,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69f33e3126b3243414ccc452",
@@ -9624,7 +9624,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69cec89f26b3242a48a9e0b7",
@@ -9661,7 +9661,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69dfe1ed26b3242a48a9e3bd",
@@ -9698,7 +9698,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69e284d026b3242a48a9e506",
@@ -9736,7 +9736,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a2b06f226b3243414ccd16b",
@@ -9774,7 +9774,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a3ed9eb26b3247a14361dd4",
@@ -9812,7 +9812,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a022afe26b3243414ccc75f",
@@ -9849,7 +9849,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a04ccc626b3243414ccc850",
@@ -9887,7 +9887,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a2714a726b3243414cccfed",
@@ -9924,7 +9924,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69f33e5126b3243414ccc49c",
@@ -9962,7 +9962,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69f33e5226b3243414ccc4b2",
@@ -10000,7 +10000,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a0b631b26b3243414ccc9e1",
@@ -10038,7 +10038,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69e48794eb43c961d05406c8",
@@ -10076,7 +10076,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69fe3b9726b3243414ccc710",
@@ -10113,7 +10113,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a2714df26b3243414ccd025",
@@ -10150,7 +10150,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a2714e026b3243414ccd02c",
@@ -10187,7 +10187,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a18a6d926b3243414ccccdc",
@@ -10224,7 +10224,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a1f30f626b3243414ccce5a",
@@ -10261,7 +10261,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a3a53b7647a40ec65297abd",
@@ -10298,7 +10298,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a28645226b3243414ccd0b1",
@@ -10336,7 +10336,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a1604ea26b3243414cccbc9",
@@ -10373,7 +10373,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ab08d9aeb4399d01039b1e5",
@@ -10410,7 +10410,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a2473a026b3243414cccfbf",
@@ -10448,7 +10448,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a1604ea26b3243414cccbc8",
@@ -10485,7 +10485,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a08c07c26b3243414ccc976",
@@ -10523,7 +10523,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a08c07c26b3243414ccc975",
@@ -10561,7 +10561,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a28644d26b3243414ccd09d",
@@ -10599,7 +10599,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a28644d26b3243414ccd09c",
@@ -10637,7 +10637,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a28644c26b3243414ccd094",
@@ -10675,7 +10675,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a28643026b3243414ccd069",
@@ -10713,7 +10713,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a3c364626b3243414ccd601",
@@ -10751,7 +10751,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a4397f326b32427d0603fd8",
@@ -10788,7 +10788,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69fa47ba26b3243414ccc5f6",
@@ -10826,7 +10826,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a34414826b3243414ccd45a",
@@ -10863,7 +10863,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a34414826b3243414ccd45b",
@@ -10900,7 +10900,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a28645126b3243414ccd0af",
@@ -10937,7 +10937,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a456b3626b32427d06040ae",
@@ -10974,7 +10974,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6973eb1626b32454e437c40e",
@@ -11011,7 +11011,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a19f5f826b3243414cccd57",
@@ -11048,7 +11048,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a7a91db647ad700eb56cce9",
@@ -11084,7 +11084,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a3835b026b3243414ccd49a",
@@ -11122,7 +11122,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-09T01:23:57.029658+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a7d5c6beb436c2506e0fba6",
@@ -11159,7 +11159,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a606d4f647ad700eb56cccb",
@@ -11196,7 +11196,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a3a466e647a40ec65297aaa",
@@ -11233,7 +11233,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a9a70f9eb43f566f29c88fc",
@@ -11270,7 +11270,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6aa6541f26b324165c32e3d0",
@@ -11308,7 +11308,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6abca790eb4399d01039b1f9",
@@ -11345,7 +11345,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ace0259647a795d9251e66e",
@@ -11382,7 +11382,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6aab9ac726b324165c32e4e8",
@@ -11420,7 +11420,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": false
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6acf2331eb4399d01039b21c",
@@ -11457,7 +11457,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69de905826b3242a48a9e331",
@@ -11495,7 +11495,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6acddd77eb4399d01039b214",
@@ -11533,7 +11533,7 @@
         "estimatedStayMinutes": 20,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ac4ae0deb4399d01039b1fe",
@@ -11570,7 +11570,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ac739faeb4399d01039b20f",
@@ -11607,7 +11607,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ac730d1eb4399d01039b20d",
@@ -11645,7 +11645,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a5e735d26b32427d0604202",
@@ -11682,7 +11682,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ad87d18eb43549b707fe242",
@@ -11720,7 +11720,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ae0628126b3245efc753729",
@@ -11758,7 +11758,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ae1b49026b3245efc753733",
@@ -11796,7 +11796,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6aeaf13f26b3245efc753784",
@@ -11834,7 +11834,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6aeaf13f26b3245efc753785",
@@ -11872,7 +11872,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6aeaf13f26b3245efc753786",
@@ -11910,7 +11910,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a2b070926b3243414ccd1f4",
@@ -11947,7 +11947,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69cc269326b3242a48a9dfb9",
@@ -11984,7 +11984,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696805eb26b3243b1ca0bfab",
@@ -12022,7 +12022,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6aec3791647ad3bb538f9790",
@@ -12060,7 +12060,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6aeaea08647ad3bb538f978e",
@@ -12097,7 +12097,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ad5d153eb43ead9f13aebce",
@@ -12135,7 +12135,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ae31514647ad3bb538f9788",
@@ -12173,7 +12173,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ad7bb5f26b3245efc7536ee",
@@ -12211,7 +12211,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ad7bb6026b3245efc7536f4",
@@ -12248,7 +12248,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ad7bb6026b3245efc7536f3",
@@ -12286,7 +12286,7 @@
         "estimatedStayMinutes": 150,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:57.029658+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a2b070b26b3243414ccd203",
@@ -12324,7 +12324,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ad7bb5f26b3245efc7536ef",
@@ -12362,7 +12362,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:57.029658+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ad7bb5f26b3245efc7536f0",
@@ -12400,7 +12400,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:57.029658+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ad7bb5f26b3245efc7536f2",
@@ -12438,7 +12438,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:57.029658+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-5b3dd544aaa378d7ca9a2e9a",
@@ -12476,7 +12476,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:57.029658+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6abb68abeb4399d01039b1f7",
@@ -12514,7 +12514,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ad7bb5f26b3245efc7536f1",
@@ -12552,7 +12552,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-694076d926b32416dc348cca",
@@ -12589,7 +12589,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a67d88826b32427d06042ca",
@@ -12626,7 +12626,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ad46eeaeb43ead9f13aebcc",
@@ -12664,7 +12664,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ad706a2eb43549b707fe23e",
@@ -12702,7 +12702,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ad91d1d26b3245efc7536ff",
@@ -12739,7 +12739,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ad91d1d26b3245efc753702",
@@ -12777,7 +12777,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ad91d1d26b3245efc753700",
@@ -12815,7 +12815,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ad91d1d26b3245efc753701",
@@ -12853,7 +12853,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69dbed6326b3242a48a9e2b7",
@@ -12890,7 +12890,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a6d176426b32427d060431b",
@@ -12927,7 +12927,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ad30bb0647ab5fb78a2d1c6",
@@ -12964,7 +12964,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ad91d1d26b3245efc753703",
@@ -13002,7 +13002,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a41f4da647a979bdc54caaf",
@@ -13040,7 +13040,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ad03c8d647a795d9251e67f",
@@ -13078,7 +13078,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a13698126b3243414cccb3d",
@@ -13115,7 +13115,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6acda714eb4399d01039b213",
@@ -13153,7 +13153,45 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
+    },
+    {
+      "id": "culture-6af04b39647ad3bb538f9796",
+      "title": "數位擱淺",
+      "city": "高雄市",
+      "region": "南部",
+      "address": "",
+      "venue": "",
+      "lat": null,
+      "lon": null,
+      "category": "exhibition",
+      "start": "2026-11-14T19:00:00+08:00",
+      "end": "2026-11-22T19:00:00+08:00",
+      "price": "詳見官方資訊",
+      "isFree": false,
+      "url": "",
+      "sources": [
+        "culture"
+      ],
+      "popularityScore": 50,
+      "contentHash": "43529c469c6b5ff6",
+      "aiSource": "gemini",
+      "ai": {
+        "bullets": [
+          "高雄展覽「數位擱淺」即將登場",
+          "展期從2026年11月14日至22日",
+          "門票與詳細收費請見官方資訊"
+        ],
+        "recommendReason": "趁著秋末週末來到高雄看展，感受「數位擱淺」帶來的獨特氛圍！",
+        "suitableFor": [
+          "情侶",
+          "朋友聚會",
+          "獨自前往"
+        ],
+        "estimatedStayMinutes": 60,
+        "hasAircon": null
+      },
+      "updatedAt": "2026-11-10T03:56:45.166169+00:00"
     },
     {
       "id": "culture-6ad658f626b3245efc7536b9",
@@ -13191,7 +13229,45 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
+    },
+    {
+      "id": "culture-6aeebf56eb43549b707fe24d",
+      "title": "森境中的精靈絮語_林秀娘個展",
+      "city": "台中市",
+      "region": "中部",
+      "address": "",
+      "venue": "",
+      "lat": null,
+      "lon": null,
+      "category": "exhibition",
+      "start": "2026-11-14T19:00:00+08:00",
+      "end": "2026-12-26T19:00:00+08:00",
+      "price": "詳見官方資訊",
+      "isFree": false,
+      "url": "https://www.moongallery.com.tw/gallery_detail.asp?st=2&cat=381",
+      "sources": [
+        "culture"
+      ],
+      "popularityScore": 50,
+      "contentHash": "9bdcda3a6807cb9a",
+      "aiSource": "gemini",
+      "ai": {
+        "bullets": [
+          "展出藝術家林秀娘的「觀」與「叢林」系列陶瓷創作。",
+          "展期自 2026 年 11 月 14 日至 12 月 26 日止。",
+          "作品結合心靈經驗與夢境，呈現泥土與自然的對話。"
+        ],
+        "recommendReason": "走進這片陶瓷構築的沉靜叢林，一起感受心靈療癒與想像力發酵吧！",
+        "suitableFor": [
+          "獨自前往",
+          "情侶",
+          "朋友聚會"
+        ],
+        "estimatedStayMinutes": 60,
+        "hasAircon": null
+      },
+      "updatedAt": "2026-11-10T03:56:45.166169+00:00"
     },
     {
       "id": "culture-5cd25532aaa3f054c2cc6bad",
@@ -13229,7 +13305,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a988e4126b32434f43580c2",
@@ -13267,7 +13343,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6aa06cb626b324165c32e390",
@@ -13305,7 +13381,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ac7d85426b324165c32e5c8",
@@ -13342,7 +13418,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ad658f626b3245efc7536ba",
@@ -13380,7 +13456,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ad91d1d26b3245efc753704",
@@ -13417,7 +13493,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ac6410aeb4399d01039b203",
@@ -13454,7 +13530,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ae2e5f7647ad3bb538f9786",
@@ -13490,7 +13566,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a9f82b1647a795d9251e5a4",
@@ -13528,7 +13604,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a319eb426b3243414ccd38f",
@@ -13564,7 +13640,7 @@
         "estimatedStayMinutes": 150,
         "hasAircon": false
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ada767326b3245efc753712",
@@ -13602,7 +13678,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ad91d1d26b3245efc753705",
@@ -13640,7 +13716,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ad91d1d26b3245efc753706",
@@ -13678,7 +13754,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ada767326b3245efc753713",
@@ -13716,7 +13792,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ada767326b3245efc753714",
@@ -13754,7 +13830,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ad86a3deb43549b707fe240",
@@ -13791,7 +13867,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a21d77226b3243414cccef2",
@@ -13828,7 +13904,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ae2b0e9647ad3bb538f9784",
@@ -13865,7 +13941,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ac7d85426b324165c32e5c7",
@@ -13902,7 +13978,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ad9c67526b3245efc753707",
@@ -13939,7 +14015,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ae43899eb43549b707fe246",
@@ -13976,7 +14052,7 @@
         "estimatedStayMinutes": 80,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6aa06cb526b324165c32e38e",
@@ -14014,7 +14090,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69f8f79326b3243414ccc573",
@@ -14051,7 +14127,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6aeeeff126b3245efc7537a7",
@@ -14088,7 +14164,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6aeeeff126b3245efc7537a8",
@@ -14126,7 +14202,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a2b070926b3243414ccd1ec",
@@ -14164,7 +14240,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ae84963647ad3bb538f978b",
@@ -14201,7 +14277,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a7a33dc26b32427d06043ad",
@@ -14239,7 +14315,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6aec6e9b647ad3bb538f9792",
@@ -14276,7 +14352,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ac7d85426b324165c32e5c6",
@@ -14313,7 +14389,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a988e4026b32434f43580c1",
@@ -14351,7 +14427,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ad5d11e26b324165c32e60f",
@@ -14388,7 +14464,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a73a62926b32427d0604360",
@@ -14425,7 +14501,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a97a5efeb43f566f29c88e3",
@@ -14462,7 +14538,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ae19da726b3245efc753731",
@@ -14499,7 +14575,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ae19da726b3245efc753730",
@@ -14536,7 +14612,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ada767326b3245efc753716",
@@ -14573,7 +14649,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ada767326b3245efc753715",
@@ -14611,7 +14687,7 @@
         "estimatedStayMinutes": 150,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a18a65226b3243414cccc48",
@@ -14648,7 +14724,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ad658f626b3245efc7536bb",
@@ -14686,7 +14762,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ae19da726b3245efc753732",
@@ -14723,7 +14799,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69cc269226b3242a48a9dfaf",
@@ -14760,7 +14836,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6aac3bc626b324165c32e4ec",
@@ -14797,7 +14873,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ad87fa8647ad3bb538f977d",
@@ -14834,7 +14910,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69cc269326b3242a48a9dfba",
@@ -14871,7 +14947,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a9200cc26b32434f4358086",
@@ -14909,7 +14985,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a97a681eb43f566f29c88e5",
@@ -14947,7 +15023,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6aa06cb626b324165c32e38f",
@@ -14985,7 +15061,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6aeb988a26b3245efc753790",
@@ -15023,7 +15099,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a4d4ecf26b32427d0604154",
@@ -15061,7 +15137,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6abe0726eb4399d01039b1fb",
@@ -15099,7 +15175,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69cc269226b3242a48a9dfa4",
@@ -15136,7 +15212,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69dbed6326b3242a48a9e2b8",
@@ -15173,7 +15249,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6aa84c9526b324165c32e401",
@@ -15211,7 +15287,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a6928c526b32427d06042dd",
@@ -15248,7 +15324,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ac28f8826b324165c32e593",
@@ -15284,7 +15360,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-696805eb26b3243b1ca0bfac",
@@ -15322,7 +15398,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69cc269226b3242a48a9dfb0",
@@ -15358,7 +15434,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a2b070926b3243414ccd1f6",
@@ -15395,7 +15471,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ac6859026b324165c32e5bb",
@@ -15432,7 +15508,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a9b2dc826b324165c32e36a",
@@ -15470,7 +15546,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ab2ca2a26b324165c32e51f",
@@ -15507,7 +15583,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a97a6f6eb43f566f29c88e7",
@@ -15545,7 +15621,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ac69e33eb4399d01039b206",
@@ -15583,7 +15659,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ae25e8726b3245efc753740",
@@ -15620,7 +15696,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69c9855226b3242a48a9df49",
@@ -15656,7 +15732,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a2b070b26b3243414ccd1fe",
@@ -15692,7 +15768,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69de905726b3242a48a9e32b",
@@ -15730,7 +15806,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ad051ac647ab5fb78a2d1c2",
@@ -15768,7 +15844,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6aec434c26b3245efc753791",
@@ -15806,7 +15882,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6aed8750eb43549b707fe24b",
@@ -15843,7 +15919,7 @@
         "estimatedStayMinutes": 360,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6aece9f126b3245efc753797",
@@ -15880,7 +15956,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6adaf45a647ad3bb538f9780",
@@ -15918,7 +15994,7 @@
         "estimatedStayMinutes": 240,
         "hasAircon": false
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69de905826b3242a48a9e32c",
@@ -15956,7 +16032,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-691e361026b32445dce6f05b",
@@ -15994,7 +16070,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a74f60526b32427d060436a",
@@ -16031,7 +16107,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ab0ee97eb4399d01039b1eb",
@@ -16068,7 +16144,7 @@
         "estimatedStayMinutes": 2880,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ac5340f26b324165c32e5ac",
@@ -16105,7 +16181,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6acfc10326b324165c32e5f8",
@@ -16142,7 +16218,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ad112d426b324165c32e604",
@@ -16179,7 +16255,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a10c26926b3243414cccad3",
@@ -16216,7 +16292,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a2b070926b3243414ccd1ed",
@@ -16253,7 +16329,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6abe9ae326b324165c32e57e",
@@ -16291,7 +16367,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-68f2a6a926b324253c0da4fd",
@@ -16329,7 +16405,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69cc269326b3242a48a9dfc2",
@@ -16366,7 +16442,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69f7a63626b3243414ccc55a",
@@ -16403,7 +16479,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69fa47ba26b3243414ccc5f7",
@@ -16440,7 +16516,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6a28645126b3243414ccd0b0",
@@ -16477,7 +16553,45 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
+    },
+    {
+      "id": "culture-6aeee7b9647ad3bb538f9794",
+      "title": "漫畫臺中・神秘路徑：與漫畫家一起閱讀城市",
+      "city": "台中市",
+      "region": "中部",
+      "address": "",
+      "venue": "",
+      "lat": null,
+      "lon": null,
+      "category": "exhibition",
+      "start": "2027-01-02T19:00:00+08:00",
+      "end": "2027-01-02T21:00:00+08:00",
+      "price": "詳見官方資訊",
+      "isFree": false,
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSe7sOlb-qjvyLajOjESbmbVE5GLMdRJDTJC8rpS3RM0DNPQ8w/viewform",
+      "sources": [
+        "culture"
+      ],
+      "popularityScore": 50,
+      "contentHash": "33466e934998f033",
+      "aiSource": "gemini",
+      "ai": {
+        "bullets": [
+          "活動免費需報名，參與即贈送A3畫板與素描紙。",
+          "與漫畫家一同看展並漫步街區，透過速寫記錄城市故事。",
+          "2027年1月2日舉行，全程約4小時，於東區復興路集合。"
+        ],
+        "recommendReason": "跟著漫畫家走訪臺中老街區邊看展邊創作，免費還送畫板超划算！",
+        "suitableFor": [
+          "獨自前往",
+          "朋友聚會",
+          "情侶"
+        ],
+        "estimatedStayMinutes": 240,
+        "hasAircon": null
+      },
+      "updatedAt": "2026-11-10T03:56:45.166169+00:00"
     },
     {
       "id": "culture-6aeeeff126b3245efc7537a6",
@@ -16514,7 +16628,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ad658f626b3245efc7536b8",
@@ -16551,7 +16665,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6ae0618f647ad3bb538f9782",
@@ -16589,7 +16703,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6aece9f126b3245efc753798",
@@ -16627,7 +16741,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69ea826226b3242a48a9e604",
@@ -16664,7 +16778,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-69f33dcd26b3243414ccc42c",
@@ -16700,7 +16814,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-6aa99c2e26b324165c32e40d",
@@ -16737,7 +16851,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     },
     {
       "id": "culture-681fa5d226b3242b74a3ba7f",
@@ -16774,7 +16888,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-09T01:23:56.679860+00:00"
+      "updatedAt": "2026-11-10T03:56:44.924810+00:00"
     }
   ]
 }
