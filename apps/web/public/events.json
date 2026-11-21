@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T02:54:06.928147+00:00",
+  "generatedAt": "2026-11-21T03:00:49.692624+00:00",
   "sources": [
     "culture",
     "manual"
   ],
-  "eventCount": 466,
+  "eventCount": 463,
   "events": [
     {
       "id": "culture-62024e4ad083a31f047812ae",
@@ -40,7 +40,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-619e1cadd083a3a56c535538",
@@ -76,7 +76,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-620a3747d083a31f047813f1",
@@ -112,7 +112,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6220a0e5d083a32d5c8c8dc5",
@@ -148,7 +148,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-62273864d083a32d5c8c8e4f",
@@ -184,7 +184,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-63ef217c31be352145f9ff2b",
@@ -220,7 +220,7 @@
         "estimatedStayMinutes": 30,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-65eaa9c931bef923aa07d72e",
@@ -258,7 +258,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-690969148f15ccefbf34d1d6",
@@ -296,7 +296,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-68ef6e8b07f374a51cc171c4",
@@ -332,44 +332,7 @@
         "estimatedStayMinutes": 30,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
-    },
-    {
-      "id": "culture-6958372026b32416dc34922c",
-      "title": "臺中市眷村文物館-麵蒔麥語文化特展",
-      "city": "台中市",
-      "region": "中部",
-      "address": "",
-      "venue": "",
-      "lat": null,
-      "lon": null,
-      "category": "exhibition",
-      "start": "2026-01-01T19:00:00+08:00",
-      "end": "2026-11-20T19:00:00+08:00",
-      "price": "詳見官方資訊",
-      "isFree": false,
-      "url": "https://reurl.cc/LQZLG9",
-      "sources": [
-        "culture"
-      ],
-      "popularityScore": 50,
-      "contentHash": "ec867410f8384bed",
-      "aiSource": "gemini",
-      "ai": {
-        "bullets": [
-          "特展以四個核心主題，深入探討台灣麵食文化與產業發展。",
-          "從歷史背景到在地麵香，帶你感受最具溫度的飲食記憶。",
-          "展期自2026年1月1日至11月20日，歡迎前往參觀。"
-        ],
-        "recommendReason": "想了解台灣道地的麵食文化故事，這趟展覽絕對能讓你收穫滿滿！",
-        "suitableFor": [
-          "朋友聚會",
-          "家人"
-        ],
-        "estimatedStayMinutes": 60,
-        "hasAircon": null
-      },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69b1c12326b3242a48a9dab1",
@@ -407,7 +370,7 @@
         "estimatedStayMinutes": 15,
         "hasAircon": false
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-694717bc26b32416dc348f72",
@@ -445,7 +408,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69616b5026b3243dd4e6acc8",
@@ -483,7 +446,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-697290a426b32454e437c3c8",
@@ -520,7 +483,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a18a67726b3243414cccc4d",
@@ -558,7 +521,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69a0b2c426b32454e437cb66",
@@ -596,7 +559,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-693c63b126b32416dc348c44",
@@ -633,7 +596,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69843545eb43ce229cb24535",
@@ -670,7 +633,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696aa7bb26b3243b1ca0c06e",
@@ -706,7 +669,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-697fae3726b32454e437c65b",
@@ -743,7 +706,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-68950a2f26b324477c8a1474",
@@ -781,7 +744,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-695053cf26b32416dc349157",
@@ -818,7 +781,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6958372526b32416dc34925d",
@@ -855,7 +818,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6966a24726b3243b1ca0bf57",
@@ -891,7 +854,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a20817e26b3243414ccceb6",
@@ -929,7 +892,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-695053cf26b32416dc349159",
@@ -967,7 +930,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-695053d026b32416dc349161",
@@ -1005,7 +968,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-695053d026b32416dc349165",
@@ -1042,7 +1005,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6958372626b32416dc349266",
@@ -1079,7 +1042,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6941cd8a26b32416dc348d6f",
@@ -1116,7 +1079,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-67d8874426b32408680bed6f",
@@ -1154,7 +1117,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-68f2a6ac26b324253c0da51d",
@@ -1191,7 +1154,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69013dae26b324253c0da913",
@@ -1229,7 +1192,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-690ba12b26b324253c0dabb3",
@@ -1267,7 +1230,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-690ba12c26b324253c0dabcc",
@@ -1304,7 +1267,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-690ba12d26b324253c0dabcf",
@@ -1342,7 +1305,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6928c79826b32445dce6f36f",
@@ -1380,7 +1343,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6930a89b26b32445dce6f58a",
@@ -1417,7 +1380,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6930a89b26b32445dce6f58c",
@@ -1455,7 +1418,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-693b160f26b32416dc348c39",
@@ -1493,7 +1456,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-693dcdbc26b32416dc348c93",
@@ -1531,7 +1494,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6941cd8926b32416dc348d6c",
@@ -1568,7 +1531,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6941cd8a26b32416dc348d6d",
@@ -1606,7 +1569,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6941cd8a26b32416dc348d6e",
@@ -1643,7 +1606,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-694717bc26b32416dc348f70",
@@ -1680,7 +1643,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-694717bc26b32416dc348f73",
@@ -1717,7 +1680,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-694b125a26b32416dc349054",
@@ -1755,7 +1718,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-694c63f426b32416dc3490b9",
@@ -1792,7 +1755,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-694c63f426b32416dc3490ba",
@@ -1829,7 +1792,7 @@
         "estimatedStayMinutes": 30,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-695053cf26b32416dc349153",
@@ -1867,7 +1830,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-695053cf26b32416dc349155",
@@ -1905,7 +1868,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-695053cf26b32416dc349158",
@@ -1943,7 +1906,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-695053cf26b32416dc34915a",
@@ -1980,7 +1943,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-695053cf26b32416dc34915b",
@@ -2017,7 +1980,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-695053cf26b32416dc34915c",
@@ -2054,7 +2017,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-695053cf26b32416dc34915d",
@@ -2091,7 +2054,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-695053d026b32416dc34915e",
@@ -2128,7 +2091,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-695053d026b32416dc34915f",
@@ -2165,7 +2128,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-695053d026b32416dc349160",
@@ -2202,7 +2165,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-695053d026b32416dc349162",
@@ -2239,7 +2202,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-695053d026b32416dc349163",
@@ -2277,7 +2240,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-695053d026b32416dc349164",
@@ -2315,7 +2278,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-695053d026b32416dc349166",
@@ -2352,7 +2315,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6958372226b32416dc34923f",
@@ -2389,7 +2352,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6958372626b32416dc349268",
@@ -2427,7 +2390,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6958372626b32416dc349269",
@@ -2465,7 +2428,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6958372626b32416dc34926a",
@@ -2503,7 +2466,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69601b8d26b3243dd4e6ac96",
@@ -2541,7 +2504,7 @@
         "estimatedStayMinutes": 180,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6966a24626b3243b1ca0bf47",
@@ -2578,7 +2541,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6966a24726b3243b1ca0bf58",
@@ -2615,7 +2578,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6966a24726b3243b1ca0bf5a",
@@ -2653,7 +2616,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696aa7ad26b3243b1ca0c051",
@@ -2690,7 +2653,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696aa7bb26b3243b1ca0c065",
@@ -2728,7 +2691,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696aa7bb26b3243b1ca0c066",
@@ -2765,7 +2728,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696aa7bb26b3243b1ca0c067",
@@ -2802,7 +2765,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696aa7bb26b3243b1ca0c069",
@@ -2840,7 +2803,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696aa7bb26b3243b1ca0c070",
@@ -2877,7 +2840,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696e973c26b3243b1ca0c0f1",
@@ -2914,7 +2877,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696fe8b126b3243b1ca0c117",
@@ -2952,7 +2915,7 @@
         "estimatedStayMinutes": 180,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696fe8b126b3243b1ca0c119",
@@ -2990,7 +2953,7 @@
         "estimatedStayMinutes": 180,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696fe8b126b3243b1ca0c11a",
@@ -3028,7 +2991,7 @@
         "estimatedStayMinutes": 180,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696fe8b226b3243b1ca0c12d",
@@ -3066,7 +3029,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6977d85026b32454e437c459",
@@ -3104,7 +3067,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6977d86a26b32454e437c46e",
@@ -3142,7 +3105,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-697a6a5d26b32454e437c53d",
@@ -3179,7 +3142,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-697bbd1026b32454e437c59b",
@@ -3217,7 +3180,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-697d0dad26b32454e437c643",
@@ -3254,7 +3217,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-697fae3726b32454e437c65c",
@@ -3291,7 +3254,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-698cd2b326b32454e437c913",
@@ -3328,7 +3291,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-698cd2b426b32454e437c916",
@@ -3365,7 +3328,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-698e24b626b32454e437c968",
@@ -3403,7 +3366,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-698e24b626b32454e437c96a",
@@ -3442,7 +3405,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-698e24b626b32454e437c96c",
@@ -3480,7 +3443,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-698e24b726b32454e437c96e",
@@ -3517,7 +3480,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-698e24b726b32454e437c970",
@@ -3555,7 +3518,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-698e24b726b32454e437c971",
@@ -3592,7 +3555,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-699b6d5f26b32454e437ca39",
@@ -3630,7 +3593,7 @@
         "estimatedStayMinutes": 30,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-699b6d5f26b32454e437ca3a",
@@ -3668,7 +3631,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-699b6d5f26b32454e437ca3b",
@@ -3705,7 +3668,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-699b6d5f26b32454e437ca3c",
@@ -3743,7 +3706,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": false
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-699b6d6026b32454e437ca3e",
@@ -3781,7 +3744,7 @@
         "estimatedStayMinutes": 30,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69a34ae726b32454e437cbbd",
@@ -3819,7 +3782,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69b06ece26b3242a48a9d9d9",
@@ -3856,7 +3819,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69b1c11e26b3242a48a9da81",
@@ -3893,7 +3856,7 @@
         "estimatedStayMinutes": 30,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69b1c11e26b3242a48a9da82",
@@ -3929,7 +3892,7 @@
         "estimatedStayMinutes": 30,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69b1c11e26b3242a48a9da83",
@@ -3966,7 +3929,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69b1c11e26b3242a48a9da84",
@@ -4004,7 +3967,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69b1c11e26b3242a48a9da85",
@@ -4042,7 +4005,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69b1c11e26b3242a48a9da86",
@@ -4079,7 +4042,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69b1c11f26b3242a48a9da87",
@@ -4116,7 +4079,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69b1c11f26b3242a48a9da88",
@@ -4154,7 +4117,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69b1c11f26b3242a48a9da89",
@@ -4191,7 +4154,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69ea831b26b3242a48a9e62d",
@@ -4229,7 +4192,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a17562f26b3243414cccbd1",
@@ -4266,7 +4229,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a20817f26b3243414ccceb8",
@@ -4303,7 +4266,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a20817f26b3243414ccceba",
@@ -4341,7 +4304,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a3c35e526b3243414ccd588",
@@ -4379,7 +4342,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-690293fb26b324253c0da978",
@@ -4416,7 +4379,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-695053cf26b32416dc349154",
@@ -4453,7 +4416,7 @@
         "estimatedStayMinutes": 40,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-695053cf26b32416dc349156",
@@ -4491,7 +4454,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6958372626b32416dc349265",
@@ -4529,7 +4492,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6958372626b32416dc349267",
@@ -4566,7 +4529,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696954e026b3243b1ca0c007",
@@ -4604,7 +4567,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696954e026b3243b1ca0c00a",
@@ -4642,7 +4605,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696aa7bb26b3243b1ca0c068",
@@ -4679,7 +4642,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696fe8b126b3243b1ca0c115",
@@ -4717,7 +4680,7 @@
         "estimatedStayMinutes": 15,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696fe8b226b3243b1ca0c12a",
@@ -4754,7 +4717,7 @@
         "estimatedStayMinutes": 180,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a3d86d426b3243414ccd63e",
@@ -4792,7 +4755,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696aa7c526b3243b1ca0c073",
@@ -4829,7 +4792,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-695053cf26b32416dc349152",
@@ -4867,7 +4830,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696aa7bb26b3243b1ca0c060",
@@ -4905,7 +4868,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696aa7bb26b3243b1ca0c061",
@@ -4943,7 +4906,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696aa7bb26b3243b1ca0c062",
@@ -4980,7 +4943,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696aa7bb26b3243b1ca0c064",
@@ -5017,7 +4980,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696aa7c526b3243b1ca0c071",
@@ -5055,7 +5018,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6973eb1426b32454e437c400",
@@ -5092,7 +5055,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-697a6a5b26b32454e437c53a",
@@ -5129,7 +5092,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69a0b2b726b32454e437cb64",
@@ -5166,7 +5129,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69ab2e8426b3242a48a9d92b",
@@ -5204,7 +5167,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69ab2e8526b3242a48a9d92d",
@@ -5242,7 +5205,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69b06ece26b3242a48a9d9d7",
@@ -5280,7 +5243,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69b06ece26b3242a48a9d9d8",
@@ -5318,7 +5281,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69b1c0fb26b3242a48a9da13",
@@ -5356,7 +5319,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69b1c0fb26b3242a48a9da15",
@@ -5394,7 +5357,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69b1c11f26b3242a48a9da8a",
@@ -5431,7 +5394,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69b1c11f26b3242a48a9da8b",
@@ -5469,7 +5432,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69b1c11f26b3242a48a9da8c",
@@ -5506,7 +5469,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69b1c11f26b3242a48a9da8d",
@@ -5544,7 +5507,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69da9c0926b3242a48a9e29f",
@@ -5582,7 +5545,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69f7a63626b3243414ccc55f",
@@ -5619,7 +5582,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69f7a63726b3243414ccc560",
@@ -5656,7 +5619,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a456ade26b32427d060407b",
@@ -5694,7 +5657,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69824f0c26b32454e437c6db",
@@ -5732,7 +5695,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696aa7bb26b3243b1ca0c05f",
@@ -5770,7 +5733,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696aa7bb26b3243b1ca0c063",
@@ -5808,7 +5771,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696aa7c526b3243b1ca0c072",
@@ -5845,7 +5808,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696aa7bb26b3243b1ca0c06d",
@@ -5882,7 +5845,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-695ecb4526b3243dd4e6ac23",
@@ -5919,7 +5882,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-695ecb4526b3243dd4e6ac24",
@@ -5956,7 +5919,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69714c7426b3243b1ca0c146",
@@ -5993,7 +5956,7 @@
         "estimatedStayMinutes": 30,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69b1c0fb26b3242a48a9da14",
@@ -6031,7 +5994,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696aa7bb26b3243b1ca0c06c",
@@ -6068,7 +6031,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-695ecb3626b3243dd4e6ac19",
@@ -6105,7 +6068,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-695ecb3726b3243dd4e6ac1a",
@@ -6143,7 +6106,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-695ecb3726b3243dd4e6ac1b",
@@ -6181,7 +6144,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69791c2026b32454e437c499",
@@ -6219,7 +6182,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-699a01e626b32454e437c9fb",
@@ -6256,191 +6219,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
-    },
-    {
-      "id": "culture-69557cfa26b32416dc3491e5",
-      "title": "SEVENTEEN LYRICS POSTCARD KIT",
-      "city": "台北市",
-      "region": "北部",
-      "address": "",
-      "venue": "",
-      "lat": null,
-      "lon": null,
-      "category": "exhibition",
-      "start": "2026-01-01T19:00:00+08:00",
-      "end": "2026-12-31T19:00:00+08:00",
-      "price": "詳見官方資訊",
-      "isFree": false,
-      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P14EBDG1",
-      "sources": [
-        "culture"
-      ],
-      "popularityScore": 50,
-      "contentHash": "f51c27a4bae774aa",
-      "aiSource": "gemini",
-      "ai": {
-        "bullets": [
-          "提供SEVENTEEN歌詞明信片套組，紀錄團體音樂作品。",
-          "展覽期間長達一年，自2026年1月1日至12月底。",
-          "詳細票價與活動資訊請參考官方公佈之最新內容。"
-        ],
-        "recommendReason": "克拉們絕對不能錯過，快去把SEVENTEEN的音樂回憶收藏起來！",
-        "suitableFor": [
-          "朋友聚會",
-          "獨自前往"
-        ],
-        "estimatedStayMinutes": 60,
-        "hasAircon": null
-      },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
-    },
-    {
-      "id": "culture-6966a24726b3243b1ca0bf55",
-      "title": "研習：澎湖縣政府文化局南管班培訓",
-      "city": "澎湖縣",
-      "region": "離島",
-      "address": "",
-      "venue": "",
-      "lat": null,
-      "lon": null,
-      "category": "talk",
-      "start": "2026-01-01T19:00:00+08:00",
-      "end": "2026-12-31T19:00:00+08:00",
-      "price": "詳見官方資訊",
-      "isFree": false,
-      "url": "http://www.phhcc.gov.tw",
-      "sources": [
-        "culture"
-      ],
-      "popularityScore": 50,
-      "contentHash": "b8498ed5fb3b817a",
-      "aiSource": "gemini",
-      "ai": {
-        "bullets": [
-          "由專業老師指導，於每週一晚間與週六下午進行南管樂培訓。",
-          "地點位於澎湖縣政府文化局演藝廳文藝之家，歡迎大眾參與。",
-          "學員將有機會參與縣內巡迴演出，協助推廣傳統南管音樂。"
-        ],
-        "recommendReason": "想接觸傳統藝術的人千萬別錯過，跟著專業老師一起沉浸在古風樂曲中吧！",
-        "suitableFor": [
-          "朋友聚會",
-          "獨自前往"
-        ],
-        "estimatedStayMinutes": 120,
-        "hasAircon": null
-      },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
-    },
-    {
-      "id": "culture-6966a24726b3243b1ca0bf56",
-      "title": "研習：澎湖縣政府文化局合唱團培訓",
-      "city": "澎湖縣",
-      "region": "離島",
-      "address": "",
-      "venue": "",
-      "lat": null,
-      "lon": null,
-      "category": "talk",
-      "start": "2026-01-01T19:00:00+08:00",
-      "end": "2026-12-31T19:00:00+08:00",
-      "price": "詳見官方資訊",
-      "isFree": false,
-      "url": "http://www.phhcc.gov.tw",
-      "sources": [
-        "culture"
-      ],
-      "popularityScore": 50,
-      "contentHash": "7feda9272cb2f9aa",
-      "aiSource": "gemini",
-      "ai": {
-        "bullets": [
-          "澎湖縣政府文化局合唱團舉辦培訓，持續招募並提升團員演唱水準。",
-          "合唱團成立29年，曾多次獲得全國大賽獎項及豐富國際交流經驗。",
-          "活動日期自2026年1月1日至12月31日，詳細培訓資訊請見官方公告。"
-        ],
-        "recommendReason": "熱愛唱歌的朋友千萬別錯過，一起加入合唱團讓優美嗓音傳遞到世界各地吧！",
-        "suitableFor": [
-          "朋友聚會"
-        ],
-        "estimatedStayMinutes": 120,
-        "hasAircon": null
-      },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
-    },
-    {
-      "id": "culture-699f5a5926b32454e437cb40",
-      "title": "高雄市電影館親子教育展-光影魔幻樂園",
-      "city": "高雄市",
-      "region": "南部",
-      "address": "",
-      "venue": "",
-      "lat": null,
-      "lon": null,
-      "category": "family",
-      "start": "2026-01-01T19:00:00+08:00",
-      "end": "2026-12-31T19:00:00+08:00",
-      "price": "詳見官方資訊",
-      "isFree": false,
-      "url": "",
-      "sources": [
-        "culture"
-      ],
-      "popularityScore": 50,
-      "contentHash": "ad1ef560ca1ea957",
-      "aiSource": "gemini",
-      "ai": {
-        "bullets": [
-          "地點位於高雄市電影館一樓的友善親子空間。",
-          "展覽以魔幻動物園為主題，透過視覺感官互動。",
-          "展場運用視覺暫留原理，啟發孩子對電影的興趣。"
-        ],
-        "recommendReason": "超適合帶小朋友來玩，透過互動遊戲一起探索光影的奧秘！",
-        "suitableFor": [
-          "親子",
-          "家人"
-        ],
-        "estimatedStayMinutes": 60,
-        "hasAircon": null
-      },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
-    },
-    {
-      "id": "culture-699f5a5926b32454e437cb41",
-      "title": "《畫雄影：港都扛棒仔》特展",
-      "city": "高雄市",
-      "region": "南部",
-      "address": "",
-      "venue": "",
-      "lat": null,
-      "lon": null,
-      "category": "exhibition",
-      "start": "2026-01-01T19:00:00+08:00",
-      "end": "2026-12-31T19:00:00+08:00",
-      "price": "詳見官方資訊",
-      "isFree": false,
-      "url": "",
-      "sources": [
-        "culture"
-      ],
-      "popularityScore": 50,
-      "contentHash": "b7344ae38f0fa43c",
-      "aiSource": "gemini",
-      "ai": {
-        "bullets": [
-          "展覽以手繪電影看板畫師為核心，帶你重溫舊時戲院的熱鬧氛圍。",
-          "規劃戲院歷史、畫師介紹與工作環境展示，深入看板藝術世界。",
-          "展覽期間由2026年1月1日至年底，歡迎隨時前往參觀。"
-        ],
-        "recommendReason": "想感受懷舊電影浪漫氛圍嗎？來看看這些充滿手感溫度的大師畫作吧！",
-        "suitableFor": [
-          "朋友聚會",
-          "家人"
-        ],
-        "estimatedStayMinutes": 60,
-        "hasAircon": null
-      },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69b3117e26b3242a48a9db22",
@@ -6477,7 +6256,191 @@
         "estimatedStayMinutes": 30,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
+    },
+    {
+      "id": "culture-69557cfa26b32416dc3491e5",
+      "title": "SEVENTEEN LYRICS POSTCARD KIT",
+      "city": "台北市",
+      "region": "北部",
+      "address": "",
+      "venue": "",
+      "lat": null,
+      "lon": null,
+      "category": "exhibition",
+      "start": "2026-01-01T19:00:00+08:00",
+      "end": "2026-12-31T19:00:00+08:00",
+      "price": "詳見官方資訊",
+      "isFree": false,
+      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P14EBDG1",
+      "sources": [
+        "culture"
+      ],
+      "popularityScore": 50,
+      "contentHash": "f51c27a4bae774aa",
+      "aiSource": "gemini",
+      "ai": {
+        "bullets": [
+          "提供SEVENTEEN歌詞明信片套組，紀錄團體音樂作品。",
+          "展覽期間長達一年，自2026年1月1日至12月底。",
+          "詳細票價與活動資訊請參考官方公佈之最新內容。"
+        ],
+        "recommendReason": "克拉們絕對不能錯過，快去把SEVENTEEN的音樂回憶收藏起來！",
+        "suitableFor": [
+          "朋友聚會",
+          "獨自前往"
+        ],
+        "estimatedStayMinutes": 60,
+        "hasAircon": null
+      },
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
+    },
+    {
+      "id": "culture-6966a24726b3243b1ca0bf55",
+      "title": "研習：澎湖縣政府文化局南管班培訓",
+      "city": "澎湖縣",
+      "region": "離島",
+      "address": "",
+      "venue": "",
+      "lat": null,
+      "lon": null,
+      "category": "talk",
+      "start": "2026-01-01T19:00:00+08:00",
+      "end": "2026-12-31T19:00:00+08:00",
+      "price": "詳見官方資訊",
+      "isFree": false,
+      "url": "http://www.phhcc.gov.tw",
+      "sources": [
+        "culture"
+      ],
+      "popularityScore": 50,
+      "contentHash": "b8498ed5fb3b817a",
+      "aiSource": "gemini",
+      "ai": {
+        "bullets": [
+          "由專業老師指導，於每週一晚間與週六下午進行南管樂培訓。",
+          "地點位於澎湖縣政府文化局演藝廳文藝之家，歡迎大眾參與。",
+          "學員將有機會參與縣內巡迴演出，協助推廣傳統南管音樂。"
+        ],
+        "recommendReason": "想接觸傳統藝術的人千萬別錯過，跟著專業老師一起沉浸在古風樂曲中吧！",
+        "suitableFor": [
+          "朋友聚會",
+          "獨自前往"
+        ],
+        "estimatedStayMinutes": 120,
+        "hasAircon": null
+      },
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
+    },
+    {
+      "id": "culture-6966a24726b3243b1ca0bf56",
+      "title": "研習：澎湖縣政府文化局合唱團培訓",
+      "city": "澎湖縣",
+      "region": "離島",
+      "address": "",
+      "venue": "",
+      "lat": null,
+      "lon": null,
+      "category": "talk",
+      "start": "2026-01-01T19:00:00+08:00",
+      "end": "2026-12-31T19:00:00+08:00",
+      "price": "詳見官方資訊",
+      "isFree": false,
+      "url": "http://www.phhcc.gov.tw",
+      "sources": [
+        "culture"
+      ],
+      "popularityScore": 50,
+      "contentHash": "7feda9272cb2f9aa",
+      "aiSource": "gemini",
+      "ai": {
+        "bullets": [
+          "澎湖縣政府文化局合唱團舉辦培訓，持續招募並提升團員演唱水準。",
+          "合唱團成立29年，曾多次獲得全國大賽獎項及豐富國際交流經驗。",
+          "活動日期自2026年1月1日至12月31日，詳細培訓資訊請見官方公告。"
+        ],
+        "recommendReason": "熱愛唱歌的朋友千萬別錯過，一起加入合唱團讓優美嗓音傳遞到世界各地吧！",
+        "suitableFor": [
+          "朋友聚會"
+        ],
+        "estimatedStayMinutes": 120,
+        "hasAircon": null
+      },
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
+    },
+    {
+      "id": "culture-699f5a5926b32454e437cb40",
+      "title": "高雄市電影館親子教育展-光影魔幻樂園",
+      "city": "高雄市",
+      "region": "南部",
+      "address": "",
+      "venue": "",
+      "lat": null,
+      "lon": null,
+      "category": "family",
+      "start": "2026-01-01T19:00:00+08:00",
+      "end": "2026-12-31T19:00:00+08:00",
+      "price": "詳見官方資訊",
+      "isFree": false,
+      "url": "",
+      "sources": [
+        "culture"
+      ],
+      "popularityScore": 50,
+      "contentHash": "ad1ef560ca1ea957",
+      "aiSource": "gemini",
+      "ai": {
+        "bullets": [
+          "地點位於高雄市電影館一樓的友善親子空間。",
+          "展覽以魔幻動物園為主題，透過視覺感官互動。",
+          "展場運用視覺暫留原理，啟發孩子對電影的興趣。"
+        ],
+        "recommendReason": "超適合帶小朋友來玩，透過互動遊戲一起探索光影的奧秘！",
+        "suitableFor": [
+          "親子",
+          "家人"
+        ],
+        "estimatedStayMinutes": 60,
+        "hasAircon": null
+      },
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
+    },
+    {
+      "id": "culture-699f5a5926b32454e437cb41",
+      "title": "《畫雄影：港都扛棒仔》特展",
+      "city": "高雄市",
+      "region": "南部",
+      "address": "",
+      "venue": "",
+      "lat": null,
+      "lon": null,
+      "category": "exhibition",
+      "start": "2026-01-01T19:00:00+08:00",
+      "end": "2026-12-31T19:00:00+08:00",
+      "price": "詳見官方資訊",
+      "isFree": false,
+      "url": "",
+      "sources": [
+        "culture"
+      ],
+      "popularityScore": 50,
+      "contentHash": "b7344ae38f0fa43c",
+      "aiSource": "gemini",
+      "ai": {
+        "bullets": [
+          "展覽以手繪電影看板畫師為核心，帶你重溫舊時戲院的熱鬧氛圍。",
+          "規劃戲院歷史、畫師介紹與工作環境展示，深入看板藝術世界。",
+          "展覽期間由2026年1月1日至年底，歡迎隨時前往參觀。"
+        ],
+        "recommendReason": "想感受懷舊電影浪漫氛圍嗎？來看看這些充滿手感溫度的大師畫作吧！",
+        "suitableFor": [
+          "朋友聚會",
+          "家人"
+        ],
+        "estimatedStayMinutes": 60,
+        "hasAircon": null
+      },
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69ebd96026b3242a48a9e6b5",
@@ -6515,7 +6478,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696e972926b3243b1ca0c0e5",
@@ -6552,7 +6515,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69cec89126b3242a48a9e086",
@@ -6589,7 +6552,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696e972526b3243b1ca0c0d8",
@@ -6626,7 +6589,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69c6e4bb26b3242a48a9df14",
@@ -6663,7 +6626,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69c6e4b426b3242a48a9deea",
@@ -6700,7 +6663,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6958372626b32416dc349264",
@@ -6738,7 +6701,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6937401926b32445dce6f6b6",
@@ -6775,7 +6738,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696aa78026b3243b1ca0c040",
@@ -6811,7 +6774,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696aa78026b3243b1ca0c041",
@@ -6848,7 +6811,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696aa78026b3243b1ca0c042",
@@ -6885,7 +6848,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69714c9b26b3243b1ca0c16b",
@@ -6922,7 +6885,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6973eaea26b32454e437c3db",
@@ -6959,7 +6922,7 @@
         "estimatedStayMinutes": 30,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6973eb0b26b32454e437c3ec",
@@ -6996,7 +6959,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6973eb0c26b32454e437c3ed",
@@ -7034,7 +6997,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6973eb0c26b32454e437c3ee",
@@ -7072,7 +7035,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6973eb0c26b32454e437c3ef",
@@ -7110,7 +7073,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6973eb0c26b32454e437c3f0",
@@ -7148,7 +7111,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-698b826a26b32454e437c8b6",
@@ -7185,7 +7148,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-698f772d26b32454e437c994",
@@ -7223,7 +7186,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-698f772f26b32454e437c995",
@@ -7261,7 +7224,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696aa79226b3243b1ca0c046",
@@ -7298,7 +7261,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6984f0f026b32454e437c753",
@@ -7335,7 +7298,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69c6e4ba26b3242a48a9df0c",
@@ -7371,7 +7334,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a39871026b3243414ccd4fe",
@@ -7408,7 +7371,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-694f051c26b32416dc34910d",
@@ -7445,7 +7408,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696fe8b226b3243b1ca0c129",
@@ -7482,7 +7445,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-694f051c26b32416dc34910e",
@@ -7519,7 +7482,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696e972926b3243b1ca0c0e4",
@@ -7556,7 +7519,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69baf75126b3242a48a9dc6a",
@@ -7593,7 +7556,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69cec89226b3242a48a9e08a",
@@ -7630,7 +7593,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-697e5cfe26b32454e437c64a",
@@ -7667,7 +7630,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69bef2bd26b3242a48a9dd65",
@@ -7704,7 +7667,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69c6e4b226b3242a48a9dee8",
@@ -7741,7 +7704,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69cec86626b3242a48a9e07a",
@@ -7777,7 +7740,7 @@
         "estimatedStayMinutes": 240,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69c6e4b726b3242a48a9df08",
@@ -7814,7 +7777,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696e972526b3243b1ca0c0d9",
@@ -7850,7 +7813,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69c6e4b526b3242a48a9deec",
@@ -7887,7 +7850,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69c6e4ba26b3242a48a9df0f",
@@ -7924,43 +7887,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
-    },
-    {
-      "id": "culture-69616b5126b3243dd4e6acd7",
-      "title": "岡山圖書館合唱團班",
-      "city": "高雄市",
-      "region": "南部",
-      "address": "",
-      "venue": "",
-      "lat": null,
-      "lon": null,
-      "category": "exhibition",
-      "start": "2026-01-09T19:00:00+08:00",
-      "end": "2026-11-20T19:00:00+08:00",
-      "price": "詳見官方資訊",
-      "isFree": false,
-      "url": "",
-      "sources": [
-        "culture"
-      ],
-      "popularityScore": 50,
-      "contentHash": "88525b91655274f9",
-      "aiSource": "gemini",
-      "ai": {
-        "bullets": [
-          "提供優美曲目教唱，適合社區長輩參與學習。",
-          "活動時間橫跨整年度，由2026年1月至11月。",
-          "以樂齡族群為主，旨在打造安頓心靈與活化身體的空間。"
-        ],
-        "recommendReason": "想唱唱歌、交朋友的話，這是個溫馨又療癒的好選擇喔！",
-        "suitableFor": [
-          "家人"
-        ],
-        "estimatedStayMinutes": 120,
-        "hasAircon": null
-      },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69de904826b3242a48a9e30f",
@@ -7997,7 +7924,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696e973626b3243b1ca0c0eb",
@@ -8033,7 +7960,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696aa78026b3243b1ca0c043",
@@ -8069,7 +7996,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69dfe1cf26b3242a48a9e382",
@@ -8106,7 +8033,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-694f051c26b32416dc34910f",
@@ -8142,7 +8069,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696e973626b3243b1ca0c0ec",
@@ -8179,7 +8106,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-698cd2b426b32454e437c91e",
@@ -8216,7 +8143,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-699a019826b32454e437c9e9",
@@ -8252,7 +8179,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-694f051c26b32416dc349110",
@@ -8289,7 +8216,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69baf78026b3242a48a9dc6c",
@@ -8327,7 +8254,7 @@
         "estimatedStayMinutes": 30,
         "hasAircon": false
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-68f2a6a926b324253c0da4fc",
@@ -8365,7 +8292,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6920ec3b26b32445dce6f17a",
@@ -8403,7 +8330,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69cc269326b3242a48a9dfc1",
@@ -8440,7 +8367,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69e1333e26b3242a48a9e3fe",
@@ -8477,7 +8404,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-698b826f26b32454e437c8c5",
@@ -8515,7 +8442,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69a88ccf26b3242a48a9d848",
@@ -8551,7 +8478,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a319df326b3243414ccd36d",
@@ -8588,7 +8515,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6984f0fe26b32454e437c79e",
@@ -8624,7 +8551,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69a9ddf926b3242a48a9d892",
@@ -8662,7 +8589,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a04cce926b3243414ccc86d",
@@ -8699,7 +8626,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69a1faab26b32454e437cbab",
@@ -8736,7 +8663,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69af1f6626b3242a48a9d97c",
@@ -8773,7 +8700,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69af1f6626b3242a48a9d97d",
@@ -8811,7 +8738,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69cec86626b3242a48a9e079",
@@ -8848,7 +8775,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69a1faab26b32454e437cbac",
@@ -8884,7 +8811,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69c4502326b3242a48a9de5f",
@@ -8921,7 +8848,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69a1faab26b32454e437cbaa",
@@ -8958,7 +8885,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69fa478a26b3243414ccc5c1",
@@ -8995,7 +8922,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69b06ec526b3242a48a9d9ae",
@@ -9032,7 +8959,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69ba56f426b3242a48a9dc4d",
@@ -9069,7 +8996,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a04ccf326b3243414ccc882",
@@ -9106,7 +9033,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69e1334126b3242a48a9e40a",
@@ -9142,7 +9069,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69fe3b1026b3243414ccc6d4",
@@ -9179,7 +9106,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69de905726b3242a48a9e31f",
@@ -9216,7 +9143,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69e2848b26b3242a48a9e4cd",
@@ -9253,7 +9180,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a04ccf326b3243414ccc87f",
@@ -9290,7 +9217,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a04ccf326b3243414ccc880",
@@ -9328,7 +9255,7 @@
         "estimatedStayMinutes": 30,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69efc6bf26b3242a48a9e723",
@@ -9365,7 +9292,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69c2ee5726b3242a48a9ddf6",
@@ -9401,7 +9328,7 @@
         "estimatedStayMinutes": 480,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69f33e3126b3243414ccc452",
@@ -9438,7 +9365,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69cec89f26b3242a48a9e0b7",
@@ -9475,7 +9402,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69dfe1ed26b3242a48a9e3bd",
@@ -9512,7 +9439,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69e284d026b3242a48a9e506",
@@ -9550,7 +9477,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a2b06f226b3243414ccd16b",
@@ -9588,7 +9515,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a3ed9eb26b3247a14361dd4",
@@ -9626,7 +9553,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a022afe26b3243414ccc75f",
@@ -9663,7 +9590,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a04ccc626b3243414ccc850",
@@ -9701,7 +9628,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a2714a726b3243414cccfed",
@@ -9738,7 +9665,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69f33e5126b3243414ccc49c",
@@ -9776,7 +9703,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69f33e5226b3243414ccc4b2",
@@ -9814,7 +9741,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a0b631b26b3243414ccc9e1",
@@ -9852,7 +9779,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69e48794eb43c961d05406c8",
@@ -9890,7 +9817,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69fe3b9726b3243414ccc710",
@@ -9927,7 +9854,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a2714df26b3243414ccd025",
@@ -9964,7 +9891,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a2714e026b3243414ccd02c",
@@ -10001,7 +9928,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a18a6d926b3243414ccccdc",
@@ -10038,7 +9965,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a1f30f626b3243414ccce5a",
@@ -10075,7 +10002,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a3a53b7647a40ec65297abd",
@@ -10112,7 +10039,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a28645226b3243414ccd0b1",
@@ -10150,7 +10077,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a1604ea26b3243414cccbc9",
@@ -10187,7 +10114,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ab08d9aeb4399d01039b1e5",
@@ -10224,7 +10151,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a2473a026b3243414cccfbf",
@@ -10262,7 +10189,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a1604ea26b3243414cccbc8",
@@ -10299,7 +10226,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a08c07c26b3243414ccc976",
@@ -10337,7 +10264,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a08c07c26b3243414ccc975",
@@ -10375,7 +10302,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a28644d26b3243414ccd09d",
@@ -10413,7 +10340,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a28644d26b3243414ccd09c",
@@ -10451,7 +10378,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a28644c26b3243414ccd094",
@@ -10489,7 +10416,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a28643026b3243414ccd069",
@@ -10527,7 +10454,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a3c364626b3243414ccd601",
@@ -10565,7 +10492,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a4397f326b32427d0603fd8",
@@ -10602,7 +10529,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69fa47ba26b3243414ccc5f6",
@@ -10640,7 +10567,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a34414826b3243414ccd45a",
@@ -10677,7 +10604,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a34414826b3243414ccd45b",
@@ -10714,7 +10641,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a28645126b3243414ccd0af",
@@ -10751,7 +10678,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a456b3626b32427d06040ae",
@@ -10788,7 +10715,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6973eb1626b32454e437c40e",
@@ -10825,7 +10752,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a19f5f826b3243414cccd57",
@@ -10862,43 +10789,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
-    },
-    {
-      "id": "culture-6a7a91db647ad700eb56cce9",
-      "title": "2026 AYDA Awards 國際競圖",
-      "city": "未知",
-      "region": "未知",
-      "address": "",
-      "venue": "",
-      "lat": null,
-      "lon": null,
-      "category": "exhibition",
-      "start": "2026-08-01T19:00:00+08:00",
-      "end": "2026-11-20T19:00:00+08:00",
-      "price": "詳見官方資訊",
-      "isFree": false,
-      "url": "https://ayda.tw/",
-      "sources": [
-        "culture"
-      ],
-      "popularityScore": 50,
-      "contentHash": "9943b2f2b21e8e16",
-      "aiSource": "gemini",
-      "ai": {
-        "bullets": [
-          "2026 AYDA Awards 國際競圖徵件。",
-          "年度主題為「在地新生，未來共構」。",
-          "徵件期間自2026年8月1日至11月20日。"
-        ],
-        "recommendReason": "想讓你的建築或室內設計被世界看見嗎？快來報名參加競圖吧！",
-        "suitableFor": [
-          "獨自前往"
-        ],
-        "estimatedStayMinutes": 60,
-        "hasAircon": null
-      },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a3835b026b3243414ccd49a",
@@ -10936,7 +10827,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a7d5c6beb436c2506e0fba6",
@@ -10973,7 +10864,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a606d4f647ad700eb56cccb",
@@ -11010,7 +10901,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a3a466e647a40ec65297aaa",
@@ -11047,7 +10938,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a9a70f9eb43f566f29c88fc",
@@ -11084,7 +10975,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6aa6541f26b324165c32e3d0",
@@ -11122,7 +11013,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6abca790eb4399d01039b1f9",
@@ -11159,7 +11050,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ace0259647a795d9251e66e",
@@ -11196,7 +11087,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6acf2331eb4399d01039b21c",
@@ -11233,7 +11124,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69de905826b3242a48a9e331",
@@ -11271,7 +11162,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6afe5bfd647ad3bb538f97a4",
@@ -11309,7 +11200,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:55.032831+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ac4ae0deb4399d01039b1fe",
@@ -11346,7 +11237,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6af2c7caeb43549b707fe251",
@@ -11384,7 +11275,7 @@
         "estimatedStayMinutes": 180,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ac730d1eb4399d01039b20d",
@@ -11422,7 +11313,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ad87d18eb43549b707fe242",
@@ -11460,7 +11351,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ae0628126b3245efc753729",
@@ -11498,7 +11389,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ae1b49026b3245efc753733",
@@ -11536,7 +11427,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6aeaf13f26b3245efc753784",
@@ -11574,7 +11465,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6aeaf13f26b3245efc753785",
@@ -11612,7 +11503,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6aeaf13f26b3245efc753786",
@@ -11650,7 +11541,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a2b070926b3243414ccd1f4",
@@ -11687,7 +11578,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69cc269326b3242a48a9dfb9",
@@ -11724,7 +11615,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6afbfa90eb43b0845c061f72",
@@ -11761,7 +11652,7 @@
         "estimatedStayMinutes": 30,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696805eb26b3243b1ca0bfab",
@@ -11799,7 +11690,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6af59e8eeb43b0845c061f69",
@@ -11837,7 +11728,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6aec3791647ad3bb538f9790",
@@ -11875,7 +11766,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6aeaea08647ad3bb538f978e",
@@ -11912,7 +11803,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ae31514647ad3bb538f9788",
@@ -11950,7 +11841,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6afe5433647ad3bb538f97a2",
@@ -11988,7 +11879,7 @@
         "estimatedStayMinutes": 45,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:55.032831+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a2b070b26b3243414ccd203",
@@ -12026,7 +11917,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-694076d926b32416dc348cca",
@@ -12063,7 +11954,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ad46eeaeb43ead9f13aebcc",
@@ -12101,7 +11992,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ad706a2eb43549b707fe23e",
@@ -12139,7 +12030,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a13698126b3243414cccb3d",
@@ -12176,7 +12067,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6acda714eb4399d01039b213",
@@ -12214,7 +12105,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6af2b304eb43549b707fe24f",
@@ -12252,7 +12143,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6af58ba626b3245efc7537c6",
@@ -12290,7 +12181,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6aeebf56eb43549b707fe24d",
@@ -12328,7 +12219,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a9f82b1647a795d9251e5a4",
@@ -12366,7 +12257,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a319eb426b3243414ccd38f",
@@ -12402,7 +12293,7 @@
         "estimatedStayMinutes": 150,
         "hasAircon": false
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6afe6eee647ad3bb538f97a9",
@@ -12440,387 +12331,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:55.032831+00:00"
-    },
-    {
-      "id": "culture-6ad91d1d26b3245efc7536ff",
-      "title": "11月高雄市電影館｜我們，巴黎管弦樂團",
-      "city": "高雄市",
-      "region": "南部",
-      "address": "",
-      "venue": "",
-      "lat": null,
-      "lon": null,
-      "category": "exhibition",
-      "start": "2026-11-20T19:00:00+08:00",
-      "end": "2026-11-26T19:00:00+08:00",
-      "price": "詳見官方資訊",
-      "isFree": false,
-      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3OS",
-      "sources": [
-        "culture"
-      ],
-      "popularityScore": 50,
-      "contentHash": "1ae79e1084a1ca98",
-      "aiSource": "gemini",
-      "ai": {
-        "bullets": [
-          "高雄市電影館放映《我們，巴黎管弦樂團》",
-          "活動期間為 2026 年 11 月 20 日至 26 日",
-          "票價與具體播放場次請參閱官方公告"
-        ],
-        "recommendReason": "沉浸在巴黎管弦樂團的優美旋律中，適合獨自或約朋友輕鬆觀賞！",
-        "suitableFor": [
-          "獨自前往",
-          "朋友聚會",
-          "情侶"
-        ],
-        "estimatedStayMinutes": 120,
-        "hasAircon": null
-      },
-      "updatedAt": "2026-11-20T02:48:55.032831+00:00"
-    },
-    {
-      "id": "culture-6ad91d1d26b3245efc753700",
-      "title": "11月高雄市電影館｜告別的年代",
-      "city": "高雄市",
-      "region": "南部",
-      "address": "",
-      "venue": "",
-      "lat": null,
-      "lon": null,
-      "category": "exhibition",
-      "start": "2026-11-20T19:00:00+08:00",
-      "end": "2026-11-27T19:00:00+08:00",
-      "price": "詳見官方資訊",
-      "isFree": false,
-      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3OZ",
-      "sources": [
-        "culture"
-      ],
-      "popularityScore": 50,
-      "contentHash": "75cb00a4fd2c8c96",
-      "aiSource": "gemini",
-      "ai": {
-        "bullets": [
-          "活動於11月20日至27日在高雄市電影館舉行。",
-          "主題為「告別的年代」，提供精彩的影視觀賞內容。",
-          "票價與詳細放映場次資訊請參見官方公告。"
-        ],
-        "recommendReason": "挑個悠閒的夜晚走進高雄市電影館，在光影故事中感受告別與動人情感！",
-        "suitableFor": [
-          "情侶",
-          "朋友聚會",
-          "獨自前往"
-        ],
-        "estimatedStayMinutes": 120,
-        "hasAircon": null
-      },
-      "updatedAt": "2026-11-20T02:48:55.032831+00:00"
-    },
-    {
-      "id": "culture-6ad91d1d26b3245efc753701",
-      "title": "11月高雄市電影館｜有用的人",
-      "city": "高雄市",
-      "region": "南部",
-      "address": "",
-      "venue": "",
-      "lat": null,
-      "lon": null,
-      "category": "exhibition",
-      "start": "2026-11-20T19:00:00+08:00",
-      "end": "2026-11-27T19:00:00+08:00",
-      "price": "詳見官方資訊",
-      "isFree": false,
-      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3P6",
-      "sources": [
-        "culture"
-      ],
-      "popularityScore": 50,
-      "contentHash": "d16a4a77c41f5570",
-      "aiSource": "gemini",
-      "ai": {
-        "bullets": [
-          "活動於高雄市電影館舉行，展期為11月20日至27日。",
-          "播映或展出主題作品《有用的人》。",
-          "票價與詳細場次資訊請參閱官方公告。"
-        ],
-        "recommendReason": "不妨抽空到高雄市電影館欣賞《有用的人》，享受優閒的觀影時光！",
-        "suitableFor": [
-          "獨自前往",
-          "情侶",
-          "朋友聚會"
-        ],
-        "estimatedStayMinutes": 120,
-        "hasAircon": null
-      },
-      "updatedAt": "2026-11-20T02:48:55.032831+00:00"
-    },
-    {
-      "id": "culture-6ada767326b3245efc753712",
-      "title": "11月高雄市電影館｜你和我的房間這種感覺",
-      "city": "高雄市",
-      "region": "南部",
-      "address": "",
-      "venue": "",
-      "lat": null,
-      "lon": null,
-      "category": "exhibition",
-      "start": "2026-11-20T19:00:00+08:00",
-      "end": "2026-11-28T19:00:00+08:00",
-      "price": "詳見官方資訊",
-      "isFree": false,
-      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3QC",
-      "sources": [
-        "culture"
-      ],
-      "popularityScore": 50,
-      "contentHash": "f94bce04255320f2",
-      "aiSource": "gemini",
-      "ai": {
-        "bullets": [
-          "展覽舉辦期間為11月20日至11月28日",
-          "展覽主題為你和我的房間這種感覺",
-          "活動相關票價資訊請見官方公佈內容"
-        ],
-        "recommendReason": "想在高雄找個地方靜靜感受生活氛圍，這場展覽很適合你。",
-        "suitableFor": [
-          "情侶",
-          "朋友聚會",
-          "獨自前往"
-        ],
-        "estimatedStayMinutes": 60,
-        "hasAircon": null
-      },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
-    },
-    {
-      "id": "culture-6ad7bb5f26b3245efc7536f1",
-      "title": "11月高雄市電影館｜廚師發辦",
-      "city": "高雄市",
-      "region": "南部",
-      "address": "",
-      "venue": "",
-      "lat": null,
-      "lon": null,
-      "category": "exhibition",
-      "start": "2026-11-20T19:00:00+08:00",
-      "end": "2026-11-29T19:00:00+08:00",
-      "price": "詳見官方資訊",
-      "isFree": false,
-      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3O0",
-      "sources": [
-        "culture"
-      ],
-      "popularityScore": 50,
-      "contentHash": "252def0f369ca58c",
-      "aiSource": "gemini",
-      "ai": {
-        "bullets": [
-          "11月高雄市電影館放映活動，為期十天精彩上映。",
-          "活動自11月20日至11月29日，每日晚間7點開始。",
-          "詳細票價與購票規則，請參閱高雄市電影館官方資訊。"
-        ],
-        "recommendReason": "想體驗電影藝術的獨特魅力？安排個夜晚來趟電影館吧！",
-        "suitableFor": [
-          "情侶",
-          "朋友聚會",
-          "獨自前往"
-        ],
-        "estimatedStayMinutes": 120,
-        "hasAircon": null
-      },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
-    },
-    {
-      "id": "culture-6ad91d1d26b3245efc753705",
-      "title": "11月高雄市電影館｜重返巔峰北壁",
-      "city": "高雄市",
-      "region": "南部",
-      "address": "",
-      "venue": "",
-      "lat": null,
-      "lon": null,
-      "category": "exhibition",
-      "start": "2026-11-20T19:00:00+08:00",
-      "end": "2026-11-29T19:00:00+08:00",
-      "price": "詳見官方資訊",
-      "isFree": false,
-      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3PY",
-      "sources": [
-        "culture"
-      ],
-      "popularityScore": 50,
-      "contentHash": "ca8e92f3011eee6b",
-      "aiSource": "gemini",
-      "ai": {
-        "bullets": [
-          "活動於11月20日至29日舉辦，請留意排程。",
-          "此為高雄市電影館舉辦的電影相關活動。",
-          "詳細場次與票價資訊請查詢官方公告。"
-        ],
-        "recommendReason": "喜歡電影的朋友們，這檔活動很適合來放鬆一下心情喔！",
-        "suitableFor": [
-          "情侶",
-          "朋友聚會",
-          "獨自前往"
-        ],
-        "estimatedStayMinutes": 120,
-        "hasAircon": null
-      },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
-    },
-    {
-      "id": "culture-6ad91d1d26b3245efc753706",
-      "title": "11月高雄市電影館｜黑球",
-      "city": "高雄市",
-      "region": "南部",
-      "address": "",
-      "venue": "",
-      "lat": null,
-      "lon": null,
-      "category": "exhibition",
-      "start": "2026-11-20T19:00:00+08:00",
-      "end": "2026-11-29T19:00:00+08:00",
-      "price": "詳見官方資訊",
-      "isFree": false,
-      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3Q5",
-      "sources": [
-        "culture"
-      ],
-      "popularityScore": 50,
-      "contentHash": "5f0563b0510f0093",
-      "aiSource": "gemini",
-      "ai": {
-        "bullets": [
-          "活動名稱為高雄市電影館舉辦的黑球電影展。",
-          "展覽舉辦日期從11月20日至11月29日。",
-          "詳細場次與票務資訊請參考官方公佈內容。"
-        ],
-        "recommendReason": "喜歡電影的朋友別錯過，來高雄電影館感受一下獨特的影像魅力吧！",
-        "suitableFor": [
-          "情侶",
-          "朋友聚會",
-          "獨自前往"
-        ],
-        "estimatedStayMinutes": 120,
-        "hasAircon": null
-      },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
-    },
-    {
-      "id": "culture-6ada767326b3245efc753713",
-      "title": "11月高雄市電影館｜善男信女",
-      "city": "高雄市",
-      "region": "南部",
-      "address": "",
-      "venue": "",
-      "lat": null,
-      "lon": null,
-      "category": "exhibition",
-      "start": "2026-11-20T19:00:00+08:00",
-      "end": "2026-11-29T19:00:00+08:00",
-      "price": "詳見官方資訊",
-      "isFree": false,
-      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3QJ",
-      "sources": [
-        "culture"
-      ],
-      "popularityScore": 50,
-      "contentHash": "b1ea066efdb82c0c",
-      "aiSource": "gemini",
-      "ai": {
-        "bullets": [
-          "11月高雄電影館推出善男信女主題影展。",
-          "展演活動於11月20日至29日舉辦。",
-          "詳細場次與票價資訊請查詢官方公告。"
-        ],
-        "recommendReason": "喜歡看電影的朋友們，這檔影展選片挺有質感，很適合排個悠閒夜晚去觀影。",
-        "suitableFor": [
-          "情侶",
-          "朋友聚會",
-          "獨自前往"
-        ],
-        "estimatedStayMinutes": 120,
-        "hasAircon": null
-      },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
-    },
-    {
-      "id": "culture-6ada767326b3245efc753714",
-      "title": "11月高雄市電影館｜第四幕",
-      "city": "高雄市",
-      "region": "南部",
-      "address": "",
-      "venue": "",
-      "lat": null,
-      "lon": null,
-      "category": "exhibition",
-      "start": "2026-11-20T19:00:00+08:00",
-      "end": "2026-11-29T19:00:00+08:00",
-      "price": "詳見官方資訊",
-      "isFree": false,
-      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFEF32",
-      "sources": [
-        "culture"
-      ],
-      "popularityScore": 50,
-      "contentHash": "c800652e97bca955",
-      "aiSource": "gemini",
-      "ai": {
-        "bullets": [
-          "高雄市電影館舉辦「第四幕」展覽，呈現豐富影像藝術。",
-          "活動期間為2026年11月20日至11月29日。",
-          "入場相關票價與具體資訊，請參閱活動官方公告。"
-        ],
-        "recommendReason": "喜歡電影藝術的話，這檔展覽絕對不能錯過喔！",
-        "suitableFor": [
-          "情侶",
-          "朋友聚會",
-          "獨自前往"
-        ],
-        "estimatedStayMinutes": 60,
-        "hasAircon": null
-      },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
-    },
-    {
-      "id": "culture-5b3dd544aaa378d7ca9a2e9a",
-      "title": "科博館《古代人說故事》南屯山仔腳遺址出土的鐵刀首亮相!",
-      "city": "台中市",
-      "region": "中部",
-      "address": "",
-      "venue": "",
-      "lat": null,
-      "lon": null,
-      "category": "exhibition",
-      "start": "2026-11-20T19:00:00+08:00",
-      "end": "2028-12-31T19:00:00+08:00",
-      "price": "詳見官方資訊",
-      "isFree": false,
-      "url": "http://www.nmns.edu.tw/ch/visit/price.htm",
-      "sources": [
-        "culture"
-      ],
-      "popularityScore": 50,
-      "contentHash": "3be62ce82e6258b2",
-      "aiSource": "gemini",
-      "ai": {
-        "bullets": [
-          "科博館常設展更新，透過動畫與多媒體互動體驗古代人生活。",
-          "首度展出南屯山仔腳完整鐵刀、安和遺址母與子及稻米等成果。",
-          "展期自2026年11月20日起至2028年底止。"
-        ],
-        "recommendReason": "能看到首度亮相的古代鐵刀與趣味互動，非常適合帶小朋友來了解台灣歷史！",
-        "suitableFor": [
-          "親子",
-          "家人",
-          "獨自前往"
-        ],
-        "estimatedStayMinutes": 90,
-        "hasAircon": null
-      },
-      "updatedAt": "2026-11-20T02:48:55.032831+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ad86a3deb43549b707fe240",
@@ -12857,7 +12368,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a21d77226b3243414cccef2",
@@ -12894,7 +12405,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6af2b3bb647ad3bb538f979a",
@@ -12931,7 +12442,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ae2b0e9647ad3bb538f9784",
@@ -12968,7 +12479,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ac7d85426b324165c32e5c7",
@@ -13005,7 +12516,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ad9c67526b3245efc753707",
@@ -13042,7 +12553,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ae43899eb43549b707fe246",
@@ -13079,7 +12590,7 @@
         "estimatedStayMinutes": 80,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6aa06cb526b324165c32e38e",
@@ -13117,7 +12628,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69f8f79326b3243414ccc573",
@@ -13154,45 +12665,311 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
-      "id": "culture-5cd25532aaa3f054c2cc6bad",
-      "title": "魔幻琺瑯/七宝烧體驗課程",
-      "city": "台南市",
+      "id": "culture-6ad91d1d26b3245efc753700",
+      "title": "11月高雄市電影館｜告別的年代",
+      "city": "高雄市",
       "region": "南部",
       "address": "",
       "venue": "",
       "lat": null,
       "lon": null,
-      "category": "talk",
+      "category": "exhibition",
       "start": "2026-11-21T19:00:00+08:00",
-      "end": "2029-12-30T19:00:00+08:00",
+      "end": "2026-11-27T19:00:00+08:00",
       "price": "詳見官方資訊",
       "isFree": false,
-      "url": "https://www.facebook.com/pg/juhauwanyi/events/",
+      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3OZ",
       "sources": [
         "culture"
       ],
       "popularityScore": 50,
-      "contentHash": "91f6c36ebad63dfe",
+      "contentHash": "d09674db3520275b",
       "aiSource": "gemini",
       "ai": {
         "bullets": [
-          "體驗金屬與琺瑯釉料結合的工藝，含單日與期班課程。",
-          "滿3人即可預約專班，企業與學校團體也可客製課程。",
-          "可新增 Line 好友（@dto7895b）私訊報名與洽詢。"
+          "高雄市電影館推出11月活動「告別的年代」。",
+          "活動期間為2026年11月21日至11月27日。",
+          "門票資訊與細節請以官方公布為準。"
         ],
-        "recommendReason": "親手做精美的琺瑯工藝品，很適合揪朋友或自己來玩體驗！",
+        "recommendReason": "喜歡影展與文化活動的朋友，不妨抽空來高雄市電影館走走吧！",
         "suitableFor": [
-          "朋友聚會",
           "獨自前往",
-          "家人"
+          "情侶",
+          "朋友聚會"
         ],
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.563824+00:00"
+    },
+    {
+      "id": "culture-6ad91d1d26b3245efc753701",
+      "title": "11月高雄市電影館｜有用的人",
+      "city": "高雄市",
+      "region": "南部",
+      "address": "",
+      "venue": "",
+      "lat": null,
+      "lon": null,
+      "category": "exhibition",
+      "start": "2026-11-21T19:00:00+08:00",
+      "end": "2026-11-27T19:00:00+08:00",
+      "price": "詳見官方資訊",
+      "isFree": false,
+      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3P6",
+      "sources": [
+        "culture"
+      ],
+      "popularityScore": 50,
+      "contentHash": "59d50bf6e0ef3a92",
+      "aiSource": "gemini",
+      "ai": {
+        "bullets": [
+          "2026年11月21日至27日在高雄市電影館登場。",
+          "本活動為展覽活動，詳情請參考官方資訊。",
+          "活動門票價格資訊請參閱官方最新公告。"
+        ],
+        "recommendReason": "放假想找個文藝好去處，不妨到高雄市電影館看看！",
+        "suitableFor": [
+          "獨自前往",
+          "情侶",
+          "朋友聚會"
+        ],
+        "estimatedStayMinutes": 90,
+        "hasAircon": null
+      },
+      "updatedAt": "2026-11-21T02:57:47.563824+00:00"
+    },
+    {
+      "id": "culture-6ada767326b3245efc753712",
+      "title": "11月高雄市電影館｜你和我的房間這種感覺",
+      "city": "高雄市",
+      "region": "南部",
+      "address": "",
+      "venue": "",
+      "lat": null,
+      "lon": null,
+      "category": "exhibition",
+      "start": "2026-11-21T19:00:00+08:00",
+      "end": "2026-11-28T19:00:00+08:00",
+      "price": "詳見官方資訊",
+      "isFree": false,
+      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3QC",
+      "sources": [
+        "culture"
+      ],
+      "popularityScore": 50,
+      "contentHash": "01f6088ea30364c9",
+      "aiSource": "gemini",
+      "ai": {
+        "bullets": [
+          "活動於11/21至11/28在高雄市電影館舉行。",
+          "展覽主題為「你和我的房間這種感覺」。",
+          "票價等詳細資訊請依官方公告為準。"
+        ],
+        "recommendReason": "來高雄市電影館感受「你和我的房間這種感覺」展覽特有的氛圍吧！",
+        "suitableFor": [
+          "情侶",
+          "朋友聚會",
+          "獨自前往"
+        ],
+        "estimatedStayMinutes": 60,
+        "hasAircon": null
+      },
+      "updatedAt": "2026-11-21T02:57:47.563824+00:00"
+    },
+    {
+      "id": "culture-6ad91d1d26b3245efc753705",
+      "title": "11月高雄市電影館｜重返巔峰北壁",
+      "city": "高雄市",
+      "region": "南部",
+      "address": "",
+      "venue": "",
+      "lat": null,
+      "lon": null,
+      "category": "exhibition",
+      "start": "2026-11-21T19:00:00+08:00",
+      "end": "2026-11-29T19:00:00+08:00",
+      "price": "詳見官方資訊",
+      "isFree": false,
+      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3PY",
+      "sources": [
+        "culture"
+      ],
+      "popularityScore": 50,
+      "contentHash": "46def375faa5d1a6",
+      "aiSource": "gemini",
+      "ai": {
+        "bullets": [
+          "高雄市電影館放映精彩電影《重返巔峰北壁》。",
+          "活動展演期間為2026年11月21日至29日。",
+          "票價與詳細場次請依官方公佈資訊為準。"
+        ],
+        "recommendReason": "喜愛影展與極限挑戰題材的你，不妨安排時間前來高雄市電影館觀賞！",
+        "suitableFor": [
+          "情侶",
+          "朋友聚會",
+          "獨自前往"
+        ],
+        "estimatedStayMinutes": 120,
+        "hasAircon": null
+      },
+      "updatedAt": "2026-11-21T02:57:47.563824+00:00"
+    },
+    {
+      "id": "culture-6ad91d1d26b3245efc753706",
+      "title": "11月高雄市電影館｜黑球",
+      "city": "高雄市",
+      "region": "南部",
+      "address": "",
+      "venue": "",
+      "lat": null,
+      "lon": null,
+      "category": "exhibition",
+      "start": "2026-11-21T19:00:00+08:00",
+      "end": "2026-11-29T19:00:00+08:00",
+      "price": "詳見官方資訊",
+      "isFree": false,
+      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3Q5",
+      "sources": [
+        "culture"
+      ],
+      "popularityScore": 50,
+      "contentHash": "696916b02aa45839",
+      "aiSource": "gemini",
+      "ai": {
+        "bullets": [
+          "活動於2026年11月21日至29日展出。",
+          "地點位於高雄市電影館。",
+          "相關門票售價詳見官方資訊公告。"
+        ],
+        "recommendReason": "喜歡藝文展覽的朋友，不妨安排時間到高雄市電影館欣賞「黑球」展！",
+        "suitableFor": [
+          "獨自前往",
+          "情侶",
+          "朋友聚會"
+        ],
+        "estimatedStayMinutes": 60,
+        "hasAircon": null
+      },
+      "updatedAt": "2026-11-21T02:57:47.563824+00:00"
+    },
+    {
+      "id": "culture-6ada767326b3245efc753713",
+      "title": "11月高雄市電影館｜善男信女",
+      "city": "高雄市",
+      "region": "南部",
+      "address": "",
+      "venue": "",
+      "lat": null,
+      "lon": null,
+      "category": "exhibition",
+      "start": "2026-11-21T19:00:00+08:00",
+      "end": "2026-11-29T19:00:00+08:00",
+      "price": "詳見官方資訊",
+      "isFree": false,
+      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3QJ",
+      "sources": [
+        "culture"
+      ],
+      "popularityScore": 50,
+      "contentHash": "faff00f715db9f10",
+      "aiSource": "gemini",
+      "ai": {
+        "bullets": [
+          "活動於高雄市電影館放映《善男信女》",
+          "展演期間為 2026/11/21 至 11/29",
+          "票價及詳細入場資訊請見官方說明"
+        ],
+        "recommendReason": "喜歡電影藝術的你，不妨挑個空檔來高雄市電影館看場好戲！",
+        "suitableFor": [
+          "情侶",
+          "朋友聚會",
+          "獨自前往"
+        ],
+        "estimatedStayMinutes": 120,
+        "hasAircon": null
+      },
+      "updatedAt": "2026-11-21T02:57:47.563824+00:00"
+    },
+    {
+      "id": "culture-6ada767326b3245efc753714",
+      "title": "11月高雄市電影館｜第四幕",
+      "city": "高雄市",
+      "region": "南部",
+      "address": "",
+      "venue": "",
+      "lat": null,
+      "lon": null,
+      "category": "exhibition",
+      "start": "2026-11-21T19:00:00+08:00",
+      "end": "2026-11-29T19:00:00+08:00",
+      "price": "詳見官方資訊",
+      "isFree": false,
+      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFEF32",
+      "sources": [
+        "culture"
+      ],
+      "popularityScore": 50,
+      "contentHash": "c408fee7e61da41c",
+      "aiSource": "gemini",
+      "ai": {
+        "bullets": [
+          "活動於2026年11月21日至29日舉辦",
+          "高雄市電影館推出第四幕主題活動",
+          "票價與相關資訊請詳見官方公告"
+        ],
+        "recommendReason": "喜歡電影與影視展覽的朋友，不妨找時間到高雄市電影館看看！",
+        "suitableFor": [
+          "情侶",
+          "朋友聚會",
+          "獨自前往"
+        ],
+        "estimatedStayMinutes": 120,
+        "hasAircon": null
+      },
+      "updatedAt": "2026-11-21T02:57:47.563824+00:00"
+    },
+    {
+      "id": "culture-5b3dd544aaa378d7ca9a2e9a",
+      "title": "科博館《古代人說故事》南屯山仔腳遺址出土的鐵刀首亮相!",
+      "city": "台中市",
+      "region": "中部",
+      "address": "",
+      "venue": "",
+      "lat": null,
+      "lon": null,
+      "category": "exhibition",
+      "start": "2026-11-21T19:00:00+08:00",
+      "end": "2028-12-31T19:00:00+08:00",
+      "price": "詳見官方資訊",
+      "isFree": false,
+      "url": "http://www.nmns.edu.tw/ch/visit/price.htm",
+      "sources": [
+        "culture"
+      ],
+      "popularityScore": 50,
+      "contentHash": "cc85ec21d6703011",
+      "aiSource": "gemini",
+      "ai": {
+        "bullets": [
+          "科博館更新常設展《古代人說故事》，結合動畫與多媒體互動。",
+          "展出南屯山仔腳出土鐵刀、安和遺址文物及澎湖原人研究成果。",
+          "帶你認識從舊石器到番仔園文化，體驗臺灣古代人的生活方式。"
+        ],
+        "recommendReason": "想知道台灣古代人怎麼過生活？快來科博館看互動展與出土鐵刀吧！",
+        "suitableFor": [
+          "親子",
+          "家人",
+          "獨自前往"
+        ],
+        "estimatedStayMinutes": 90,
+        "hasAircon": null
+      },
+      "updatedAt": "2026-11-21T02:57:47.563824+00:00"
     },
     {
       "id": "culture-6aeeeff126b3245efc7537a7",
@@ -13230,7 +13007,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6aeeeff126b3245efc7537a8",
@@ -13268,7 +13045,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a2b070926b3243414ccd1ec",
@@ -13306,7 +13083,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ae84963647ad3bb538f978b",
@@ -13343,7 +13120,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a7a33dc26b32427d06043ad",
@@ -13381,7 +13158,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6aec6e9b647ad3bb538f9792",
@@ -13418,7 +13195,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ac7d85426b324165c32e5c6",
@@ -13455,7 +13232,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ad91d1d26b3245efc753702",
@@ -13493,7 +13270,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:55.032831+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ad7bb5f26b3245efc7536f0",
@@ -13530,7 +13307,45 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:55.032831+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
+    },
+    {
+      "id": "culture-5cd25532aaa3f054c2cc6bad",
+      "title": "魔幻琺瑯/七宝烧體驗課程",
+      "city": "台南市",
+      "region": "南部",
+      "address": "",
+      "venue": "",
+      "lat": null,
+      "lon": null,
+      "category": "talk",
+      "start": "2026-11-22T19:00:00+08:00",
+      "end": "2029-12-30T19:00:00+08:00",
+      "price": "詳見官方資訊",
+      "isFree": false,
+      "url": "https://www.facebook.com/pg/juhauwanyi/events/",
+      "sources": [
+        "culture"
+      ],
+      "popularityScore": 50,
+      "contentHash": "d321c3ae702ea500",
+      "aiSource": "gemini",
+      "ai": {
+        "bullets": [
+          "結合金屬與釉料工藝，含畫琺瑯與掐絲琺瑯等多種體驗。",
+          "提供單日體驗與期班課程，重視熟練工藝工法。",
+          "滿3人即可預約專班，亦可為團體客製專屬主題課程。"
+        ],
+        "recommendReason": "親手體驗魔幻的琺瑯金屬工藝，不論朋友揪團或獨自探索藝術都很適合！",
+        "suitableFor": [
+          "朋友聚會",
+          "獨自前往",
+          "情侶"
+        ],
+        "estimatedStayMinutes": 120,
+        "hasAircon": null
+      },
+      "updatedAt": "2026-11-21T02:57:47.563824+00:00"
     },
     {
       "id": "culture-6ad7bb6026b3245efc7536f4",
@@ -13567,7 +13382,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:55.032831+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ad7bb5f26b3245efc7536ef",
@@ -13604,7 +13419,45 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:55.032831+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
+    },
+    {
+      "id": "culture-6ad7bb5f26b3245efc7536f1",
+      "title": "11月高雄市電影館｜廚師發辦",
+      "city": "高雄市",
+      "region": "南部",
+      "address": "",
+      "venue": "",
+      "lat": null,
+      "lon": null,
+      "category": "exhibition",
+      "start": "2026-11-24T19:00:00+08:00",
+      "end": "2026-11-29T19:00:00+08:00",
+      "price": "詳見官方資訊",
+      "isFree": false,
+      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3O0",
+      "sources": [
+        "culture"
+      ],
+      "popularityScore": 50,
+      "contentHash": "b44f60d64ff881ff",
+      "aiSource": "gemini",
+      "ai": {
+        "bullets": [
+          "活動於11月24日至11月29日在高雄市電影館舉辦。",
+          "放映特別主題《廚師發辦》，帶領觀眾探索精彩影像。",
+          "票價與詳細放映場次等規定請參閱官方資訊。"
+        ],
+        "recommendReason": "放假想看部好電影？快來高雄市電影館體驗《廚師發辦》的驚喜選片！",
+        "suitableFor": [
+          "情侶",
+          "朋友聚會",
+          "獨自前往"
+        ],
+        "estimatedStayMinutes": 120,
+        "hasAircon": null
+      },
+      "updatedAt": "2026-11-21T02:57:47.563824+00:00"
     },
     {
       "id": "culture-6a988e4026b32434f43580c1",
@@ -13642,7 +13495,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ad7bb5f26b3245efc7536ee",
@@ -13680,7 +13533,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:55.032831+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ad658f626b3245efc7536ba",
@@ -13718,7 +13571,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ad5d11e26b324165c32e60f",
@@ -13755,7 +13608,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a73a62926b32427d0604360",
@@ -13792,7 +13645,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a97a5efeb43f566f29c88e3",
@@ -13829,7 +13682,45 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
+    },
+    {
+      "id": "culture-6ad91d1d26b3245efc7536ff",
+      "title": "11月高雄市電影館｜我們，巴黎管弦樂團",
+      "city": "高雄市",
+      "region": "南部",
+      "address": "",
+      "venue": "",
+      "lat": null,
+      "lon": null,
+      "category": "exhibition",
+      "start": "2026-11-26T19:00:00+08:00",
+      "end": "2026-11-26T21:00:00+08:00",
+      "price": "詳見官方資訊",
+      "isFree": false,
+      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HFE3OS",
+      "sources": [
+        "culture"
+      ],
+      "popularityScore": 50,
+      "contentHash": "b3a51945ef8fd631",
+      "aiSource": "gemini",
+      "ai": {
+        "bullets": [
+          "於2026年11月26日晚間19:00舉辦。",
+          "活動地點位於高雄市電影館。",
+          "票價相關細節請參考官方資訊。"
+        ],
+        "recommendReason": "喜歡音樂與電影的朋友別錯過，來高雄市電影館享受樂團魅力吧！",
+        "suitableFor": [
+          "情侶",
+          "獨自前往",
+          "朋友聚會"
+        ],
+        "estimatedStayMinutes": 120,
+        "hasAircon": null
+      },
+      "updatedAt": "2026-11-21T02:57:47.563824+00:00"
     },
     {
       "id": "culture-6ae19da726b3245efc753731",
@@ -13866,7 +13757,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ae19da726b3245efc753730",
@@ -13903,7 +13794,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ada767326b3245efc753716",
@@ -13940,7 +13831,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ada767326b3245efc753715",
@@ -13978,7 +13869,7 @@
         "estimatedStayMinutes": 150,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a18a65226b3243414cccc48",
@@ -14015,7 +13906,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ac7d85426b324165c32e5c8",
@@ -14052,7 +13943,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ad658f626b3245efc7536bb",
@@ -14090,7 +13981,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ad7bb6026b3245efc7536f3",
@@ -14128,7 +14019,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ad91d1d26b3245efc753704",
@@ -14165,7 +14056,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ae19da726b3245efc753732",
@@ -14202,7 +14093,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6afe9ad8eb43b0845c061f7c",
@@ -14240,7 +14131,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:55.032831+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6afe9cb5eb43b0845c061f7e",
@@ -14278,7 +14169,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:55.032831+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69cc269226b3242a48a9dfaf",
@@ -14315,7 +14206,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6aac3bc626b324165c32e4ec",
@@ -14352,7 +14243,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ad658f626b3245efc7536b9",
@@ -14390,7 +14281,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ad7bb5f26b3245efc7536f2",
@@ -14428,7 +14319,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:55.032831+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ad87fa8647ad3bb538f977d",
@@ -14465,7 +14356,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69cc269326b3242a48a9dfba",
@@ -14502,7 +14393,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a9200cc26b32434f4358086",
@@ -14540,7 +14431,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a97a681eb43f566f29c88e5",
@@ -14578,7 +14469,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6aa06cb626b324165c32e38f",
@@ -14616,7 +14507,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6afeb30b26b3245efc753831",
@@ -14654,7 +14545,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:55.032831+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6aeb988a26b3245efc753790",
@@ -14692,7 +14583,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6af4236c647ad3bb538f979c",
@@ -14729,7 +14620,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a4d4ecf26b32427d0604154",
@@ -14767,7 +14658,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6abe0726eb4399d01039b1fb",
@@ -14805,7 +14696,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69cc269226b3242a48a9dfa4",
@@ -14842,7 +14733,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69dbed6326b3242a48a9e2b8",
@@ -14879,7 +14770,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6aa84c9526b324165c32e401",
@@ -14917,7 +14808,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6af80555eb43b0845c061f6b",
@@ -14954,7 +14845,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": true
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a6928c526b32427d06042dd",
@@ -14991,7 +14882,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ac28f8826b324165c32e593",
@@ -15027,7 +14918,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-696805eb26b3243b1ca0bfac",
@@ -15065,7 +14956,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69cc269226b3242a48a9dfb0",
@@ -15101,7 +14992,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6af57ff726b3245efc7537c5",
@@ -15138,7 +15029,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a2b070926b3243414ccd1f6",
@@ -15175,7 +15066,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ac6859026b324165c32e5bb",
@@ -15212,7 +15103,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a9b2dc826b324165c32e36a",
@@ -15250,7 +15141,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6af81ead26b3245efc7537da",
@@ -15287,7 +15178,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ab2ca2a26b324165c32e51f",
@@ -15324,7 +15215,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6af559f1647ad3bb538f979e",
@@ -15360,7 +15251,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a97a6f6eb43f566f29c88e7",
@@ -15398,7 +15289,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ac69e33eb4399d01039b206",
@@ -15436,7 +15327,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6afc0ec726b3245efc753807",
@@ -15473,7 +15364,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6afeb30b26b3245efc75382c",
@@ -15511,7 +15402,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:55.032831+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6af532deeb43b0845c061f63",
@@ -15548,7 +15439,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ae25e8726b3245efc753740",
@@ -15585,7 +15476,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6afe96fa647ad3bb538f97ac",
@@ -15623,7 +15514,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:55.032831+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6afeb30b26b3245efc75382d",
@@ -15661,7 +15552,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:55.032831+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6afeb30b26b3245efc75382e",
@@ -15699,7 +15590,7 @@
         "estimatedStayMinutes": 105,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:55.032831+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69c9855226b3242a48a9df49",
@@ -15735,7 +15626,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a2b070b26b3243414ccd1fe",
@@ -15771,7 +15662,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69de905726b3242a48a9e32b",
@@ -15809,7 +15700,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6afc0ec726b3245efc753805",
@@ -15847,7 +15738,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6af88174eb43b0845c061f6d",
@@ -15884,7 +15775,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6afe607aeb43b0845c061f79",
@@ -15922,7 +15813,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:55.032831+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ad051ac647ab5fb78a2d1c2",
@@ -15960,7 +15851,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6aec434c26b3245efc753791",
@@ -15998,7 +15889,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6aed8750eb43549b707fe24b",
@@ -16035,7 +15926,7 @@
         "estimatedStayMinutes": 360,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6aece9f126b3245efc753797",
@@ -16072,7 +15963,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6adaf45a647ad3bb538f9780",
@@ -16110,7 +16001,7 @@
         "estimatedStayMinutes": 240,
         "hasAircon": false
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6afd371beb43b0845c061f75",
@@ -16148,7 +16039,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:55.032831+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6afeb30b26b3245efc75382a",
@@ -16186,7 +16077,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:55.032831+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69de905826b3242a48a9e32c",
@@ -16224,7 +16115,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-691e361026b32445dce6f05b",
@@ -16262,7 +16153,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a74f60526b32427d060436a",
@@ -16299,7 +16190,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ab0ee97eb4399d01039b1eb",
@@ -16336,7 +16227,7 @@
         "estimatedStayMinutes": 2880,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ac5340f26b324165c32e5ac",
@@ -16373,7 +16264,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6afc0ec726b3245efc753806",
@@ -16411,7 +16302,7 @@
         "estimatedStayMinutes": 100,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6acfc10326b324165c32e5f8",
@@ -16448,7 +16339,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6af57ff726b3245efc7537c4",
@@ -16486,7 +16377,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ad112d426b324165c32e604",
@@ -16523,7 +16414,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a10c26926b3243414cccad3",
@@ -16560,7 +16451,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a2b070926b3243414ccd1ed",
@@ -16597,7 +16488,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6abe9ae326b324165c32e57e",
@@ -16635,7 +16526,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6af95b92eb43b0845c061f70",
@@ -16672,7 +16563,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6afeb30b26b3245efc75382f",
@@ -16709,7 +16600,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:55.032831+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6afeb30b26b3245efc753830",
@@ -16747,7 +16638,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:55.032831+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-68f2a6a926b324253c0da4fd",
@@ -16785,7 +16676,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69cc269326b3242a48a9dfc2",
@@ -16822,7 +16713,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69f7a63626b3243414ccc55a",
@@ -16859,7 +16750,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69fa47ba26b3243414ccc5f7",
@@ -16896,7 +16787,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6a28645126b3243414ccd0b0",
@@ -16933,7 +16824,7 @@
         "estimatedStayMinutes": 60,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6aeee7b9647ad3bb538f9794",
@@ -16971,7 +16862,7 @@
         "estimatedStayMinutes": 240,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6aeeeff126b3245efc7537a6",
@@ -17008,7 +16899,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ad658f626b3245efc7536b8",
@@ -17045,7 +16936,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6ae0618f647ad3bb538f9782",
@@ -17083,7 +16974,7 @@
         "estimatedStayMinutes": 90,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6aece9f126b3245efc753798",
@@ -17121,7 +17012,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6af5668f647ad3bb538f97a0",
@@ -17159,7 +17050,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6afd5e7226b3245efc753821",
@@ -17196,7 +17087,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69ea826226b3242a48a9e604",
@@ -17233,7 +17124,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-69f33dcd26b3243414ccc42c",
@@ -17269,7 +17160,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6aa99c2e26b324165c32e40d",
@@ -17306,7 +17197,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6afeb30b26b3245efc75382b",
@@ -17344,7 +17235,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:55.032831+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-6afeb30b26b3245efc753829",
@@ -17381,7 +17272,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:55.032831+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     },
     {
       "id": "culture-681fa5d226b3242b74a3ba7f",
@@ -17418,7 +17309,7 @@
         "estimatedStayMinutes": 120,
         "hasAircon": null
       },
-      "updatedAt": "2026-11-20T02:48:54.824070+00:00"
+      "updatedAt": "2026-11-21T02:57:47.411692+00:00"
     }
   ]
 }
